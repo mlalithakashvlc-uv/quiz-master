@@ -1,0 +1,2926 @@
+{
+  "exam_1791380432": {
+    "id": "exam_1791380432",
+    "title": "LBSNAA - Civil Services Examination (Number System)",
+    "description": "Computer Based Test Exam",
+    "durationMinutes": 50,
+    "positiveMarks": 1.0,
+    "negativeMarks": 0.33,
+    "shuffle": false,
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "rawText": "1. Consider the following statements regarding the Earth's rotation and revolution:\nThe Earth's axis makes an angle of 66½° with its orbital plane.\nThe Earth takes 365¼ days to complete one revolution around the Sun.\nThe circle that divides day from night on the globe is called the circle of illumination.\nWhich of the statements given above is/are correct? (UPSC 2013)\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the Earth's rotation and revolution:\nThe Earth's axis makes an angle of 66½° with its orbital plane.\nThe Earth takes 365¼ days to complete one revolution around the Sun.\nThe circle that divides day from night on the globe is called the circle of illumination.\nWhich of the statements given above is/are correct? (UPSC 2013)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "rawText": "2. The Tropic of Cancer passes through which of the following continents?Asia Africa North America South America\nSelect the correct answer using the code given below: (UPSC 2014)\n(a) 1 and 2 only\n(b) 1, 2 and 3 only\n(c) 2 and 4 only\n(d) 1, 2, 3 and 4",
+        "stem": "The Tropic of Cancer passes through which of the following continents?Asia Africa North America South America\nSelect the correct answer using the code given below: (UPSC 2014)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "1, 2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "2 and 4 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2, 3 and 4"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "rawText": "3. Which one of the following is the correct sequence of the given planets in increasing order of their distance from the Sun? (UPSC 2015)\n(a) Mercury, Venus, Earth, Mars\n(b) Venus, Mercury, Mars, Earth\n(c) Mercury, Earth, Venus, Mars\n(d) Venus, Earth, Mercury, Mars",
+        "stem": "Which one of the following is the correct sequence of the given planets in increasing order of their distance from the Sun? (UPSC 2015)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Mercury, Venus, Earth, Mars"
+          },
+          {
+            "key": "b",
+            "text": "Venus, Mercury, Mars, Earth"
+          },
+          {
+            "key": "c",
+            "text": "Mercury, Earth, Venus, Mars"
+          },
+          {
+            "key": "d",
+            "text": "Venus, Earth, Mercury, Mars"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "rawText": "4. Consider the following statements:\nThe Prime Meridian passes through Greenwich.\nThe 180° East and 180° West meridians are on the same line.\nThe Earth rotates 360° in about 24 hours, which means 15° an hour.\nWhich of the statements given above is/are correct? (UPSC 2016)\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements:\nThe Prime Meridian passes through Greenwich.\nThe 180° East and 180° West meridians are on the same line.\nThe Earth rotates 360° in about 24 hours, which means 15° an hour.\nWhich of the statements given above is/are correct? (UPSC 2016)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q5",
+        "number": 5,
+        "rawText": "5. The 'Great Indian Desert' is located in which of the following states? (UPSC 2017)\n(a) Gujarat\n(b) Rajasthan\n(c) Haryana\n(d) Punjab",
+        "stem": "The 'Great Indian Desert' is located in which of the following states? (UPSC 2017)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Gujarat"
+          },
+          {
+            "key": "b",
+            "text": "Rajasthan"
+          },
+          {
+            "key": "c",
+            "text": "Haryana"
+          },
+          {
+            "key": "d",
+            "text": "Punjab"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q6",
+        "number": 6,
+        "rawText": "6. Which one of the following is the largest continent in terms of area? (UPSC 2018)\n(a) Africa\n(b) Asia\n(c) North America\n(d) Europe",
+        "stem": "Which one of the following is the largest continent in terms of area? (UPSC 2018)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Africa"
+          },
+          {
+            "key": "b",
+            "text": "Asia"
+          },
+          {
+            "key": "c",
+            "text": "North America"
+          },
+          {
+            "key": "d",
+            "text": "Europe"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q7",
+        "number": 7,
+        "rawText": "7. Consider the following statements regarding the atmosphere:The atmosphere is composed mainly of nitrogen and oxygen. Nitrogen helps in the growth of living organisms.Carbon dioxide absorbs heat radiated by the earth.Which of the statements given above is/are correct? (UPSC 2019)\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the atmosphere:The atmosphere is composed mainly of nitrogen and oxygen. Nitrogen helps in the growth of living organisms.Carbon dioxide absorbs heat radiated by the earth.Which of the statements given above is/are correct? (UPSC 2019)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q8",
+        "number": 8,
+        "rawText": "8. The 'Palk Strait' separates which of the following pairs of countries? (UPSC 2020)\n(a) India and Maldives\n(b) India and Sri Lanka\n(c) Sri Lanka and Maldives\n(d) India and Bangladesh",
+        "stem": "The 'Palk Strait' separates which of the following pairs of countries? (UPSC 2020)",
+        "options": [
+          {
+            "key": "a",
+            "text": "India and Maldives"
+          },
+          {
+            "key": "b",
+            "text": "India and Sri Lanka"
+          },
+          {
+            "key": "c",
+            "text": "Sri Lanka and Maldives"
+          },
+          {
+            "key": "d",
+            "text": "India and Bangladesh"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q9",
+        "number": 9,
+        "rawText": "9. Which one of the following is the highest plateau in the world? (UPSC 2021)\n(a) Deccan Plateau\n(b) East African Plateau\n(c) Tibet Plateau\n(d) Western Plateau of Australia",
+        "stem": "Which one of the following is the highest plateau in the world? (UPSC 2021)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Deccan Plateau"
+          },
+          {
+            "key": "b",
+            "text": "East African Plateau"
+          },
+          {
+            "key": "c",
+            "text": "Tibet Plateau"
+          },
+          {
+            "key": "d",
+            "text": "Western Plateau of Australia"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q10",
+        "number": 10,
+        "rawText": "10. Consider the following statements regarding the motions of the Earth:Rotation is the movement of the Earth on its axis.Revolution is the movement of the Earth around the Sun in a fixed path.A leap year has 366 days.Which of the statements given above is/are correct? (UPSC 2022)\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the motions of the Earth:Rotation is the movement of the Earth on its axis.Revolution is the movement of the Earth around the Sun in a fixed path.A leap year has 366 days.Which of the statements given above is/are correct? (UPSC 2022)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q11",
+        "number": 11,
+        "rawText": "11. The 'Sundarbans Delta' is formed by which of the following rivers? (UPSC 2023)\n(a) Ganga and Yamuna\n(b) Ganga and Brahmaputra\n(c) Indus and Sutlej\n(d) Mahanadi and Godavari",
+        "stem": "The 'Sundarbans Delta' is formed by which of the following rivers? (UPSC 2023)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Ganga and Yamuna"
+          },
+          {
+            "key": "b",
+            "text": "Ganga and Brahmaputra"
+          },
+          {
+            "key": "c",
+            "text": "Indus and Sutlej"
+          },
+          {
+            "key": "d",
+            "text": "Mahanadi and Godavari"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q12",
+        "number": 12,
+        "rawText": "12. Which one of the following is the correct order of the layers of the atmosphere from the Earth's surface upwards? (UPSC 2024)\n(a) Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere\n(b) Stratosphere, Troposphere, Mesosphere, Thermosphere, Exosphere\n(c) Troposphere, Mesosphere, Stratosphere, Thermosphere, Exosphere\n(d) Troposphere, Stratosphere, Thermosphere, Mesosphere, Exosphere",
+        "stem": "Which one of the following is the correct order of the layers of the atmosphere from the Earth's surface upwards? (UPSC 2024)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "b",
+            "text": "Stratosphere, Troposphere, Mesosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "c",
+            "text": "Troposphere, Mesosphere, Stratosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "d",
+            "text": "Troposphere, Stratosphere, Thermosphere, Mesosphere, Exosphere"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q13",
+        "number": 13,
+        "rawText": "13. Consider the following statements:The Earth is the third nearest planet to the Sun.The Earth is slightly flattened at the poles.The shape of the Earth is described as a Geoid.Which of the statements given above is/are correct? (UPSC 2013)\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements:The Earth is the third nearest planet to the Sun.The Earth is slightly flattened at the poles.The shape of the Earth is described as a Geoid.Which of the statements given above is/are correct? (UPSC 2013)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q14",
+        "number": 14,
+        "rawText": "14. Which one of the following is the smallest continent that lies entirely in the Southern Hemisphere? (UPSC 2014)\n(a) Antarctica\n(b) Australia\n(c) South America\n(d) Africa",
+        "stem": "Which one of the following is the smallest continent that lies entirely in the Southern Hemisphere? (UPSC 2014)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Antarctica"
+          },
+          {
+            "key": "b",
+            "text": "Australia"
+          },
+          {
+            "key": "c",
+            "text": "South America"
+          },
+          {
+            "key": "d",
+            "text": "Africa"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q15",
+        "number": 15,
+        "rawText": "15. The 'Mariana Trench', the deepest part of the Earth, lies in which ocean? (UPSC 2015)\n(a) Atlantic Ocean\n(b) Indian Ocean\n(c) Pacific Ocean\n(d) Arctic Ocean",
+        "stem": "The 'Mariana Trench', the deepest part of the Earth, lies in which ocean? (UPSC 2015)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Atlantic Ocean"
+          },
+          {
+            "key": "b",
+            "text": "Indian Ocean"
+          },
+          {
+            "key": "c",
+            "text": "Pacific Ocean"
+          },
+          {
+            "key": "d",
+            "text": "Arctic Ocean"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q16",
+        "number": 16,
+        "rawText": "16. Consider the following statements regarding latitudes:The equator represents the zero degree latitude.All parallels north of the equator are called 'north latitudes'.The value of each latitude is followed by either the word north or south.Which of the statements given above is/are correct? (UPSC 2016)\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding latitudes:The equator represents the zero degree latitude.All parallels north of the equator are called 'north latitudes'.The value of each latitude is followed by either the word north or south.Which of the statements given above is/are correct? (UPSC 2016)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q17",
+        "number": 17,
+        "rawText": "17. Which one of the following is the largest ocean in the world? (UPSC 2017)\n(a) Atlantic Ocean\n(b) Indian Ocean\n(c) Pacific Ocean\n(d) Southern Ocean",
+        "stem": "Which one of the following is the largest ocean in the world? (UPSC 2017)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Atlantic Ocean"
+          },
+          {
+            "key": "b",
+            "text": "Indian Ocean"
+          },
+          {
+            "key": "c",
+            "text": "Pacific Ocean"
+          },
+          {
+            "key": "d",
+            "text": "Southern Ocean"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q18",
+        "number": 18,
+        "rawText": "18. The 'Aravali Hills' are located in which part of India? (UPSC 2018)\n(a) North-West\n(b) North-East\n(c) South-West\n(d) South-East",
+        "stem": "The 'Aravali Hills' are located in which part of India? (UPSC 2018)",
+        "options": [
+          {
+            "key": "a",
+            "text": "North-West"
+          },
+          {
+            "key": "b",
+            "text": "North-East"
+          },
+          {
+            "key": "c",
+            "text": "South-West"
+          },
+          {
+            "key": "d",
+            "text": "South-East"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q19",
+        "number": 19,
+        "rawText": "19. Consider the following statements regarding the Moon:The Moon moves around the Earth in about 27 days.The Moon takes exactly the same time to complete one spin.Only one side of the Moon is visible to us on the Earth.Which of the statements given above is/are correct? (UPSC 2019)\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the Moon:The Moon moves around the Earth in about 27 days.The Moon takes exactly the same time to complete one spin.Only one side of the Moon is visible to us on the Earth.Which of the statements given above is/are correct? (UPSC 2019)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q20",
+        "number": 20,
+        "rawText": "20. Which one of the following is the correct sequence of the given landforms in increasing order of their elevation? (UPSC 2020)\n(a) Plains, Plateaus, Mountains\n(b) Plateaus, Plains, Mountains\n(c) Mountains, Plateaus, Plains\n(d) Plains, Mountains, Plateaus",
+        "stem": "Which one of the following is the correct sequence of the given landforms in increasing order of their elevation? (UPSC 2020)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Plains, Plateaus, Mountains"
+          },
+          {
+            "key": "b",
+            "text": "Plateaus, Plains, Mountains"
+          },
+          {
+            "key": "c",
+            "text": "Mountains, Plateaus, Plains"
+          },
+          {
+            "key": "d",
+            "text": "Plains, Mountains, Plateaus"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q21",
+        "number": 21,
+        "rawText": "21. The 'Isthmus of Panama' connects which of the following pairs of continents? (UPSC 2021)\n(a) Asia and Europe\n(b) North America and South America\n(c) Africa and Asia\n(d) Europe and Africa",
+        "stem": "The 'Isthmus of Panama' connects which of the following pairs of continents? (UPSC 2021)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Asia and Europe"
+          },
+          {
+            "key": "b",
+            "text": "North America and South America"
+          },
+          {
+            "key": "c",
+            "text": "Africa and Asia"
+          },
+          {
+            "key": "d",
+            "text": "Europe and Africa"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q22",
+        "number": 22,
+        "rawText": "22. Consider the following statements regarding the Indian Standard Time (IST):The longitude of 82½° E is treated as the Standard Meridian of India.\nIST is 5 hours and 30 minutes ahead of GMT.The local time changes by four minutes for every one degree of longitude.Which of the statements given above is/are correct? (UPSC 2022)\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the Indian Standard Time (IST):The longitude of 82½° E is treated as the Standard Meridian of India.\nIST is 5 hours and 30 minutes ahead of GMT.The local time changes by four minutes for every one degree of longitude.Which of the statements given above is/are correct? (UPSC 2022)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q23",
+        "number": 23,
+        "rawText": "23. Which one of the following is the largest state in India in terms of area? (UPSC 2023)\n(a) Madhya Pradesh\n(b) Maharashtra\n(c) Rajasthan\n(d) Uttar Pradesh",
+        "stem": "Which one of the following is the largest state in India in terms of area? (UPSC 2023)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Madhya Pradesh"
+          },
+          {
+            "key": "b",
+            "text": "Maharashtra"
+          },
+          {
+            "key": "c",
+            "text": "Rajasthan"
+          },
+          {
+            "key": "d",
+            "text": "Uttar Pradesh"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q24",
+        "number": 24,
+        "rawText": "24. The 'Gir Forest' in Gujarat is the home of which of the following animals? (UPSC 2024)\n(a) Tiger\n(b) Asiatic Lion\n(c) Elephant\n(d) One-horned Rhinoceros",
+        "stem": "The 'Gir Forest' in Gujarat is the home of which of the following animals? (UPSC 2024)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Tiger"
+          },
+          {
+            "key": "b",
+            "text": "Asiatic Lion"
+          },
+          {
+            "key": "c",
+            "text": "Elephant"
+          },
+          {
+            "key": "d",
+            "text": "One-horned Rhinoceros"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q25",
+        "number": 25,
+        "rawText": "25. Consider the following statements regarding the motions of the Earth:The Earth takes about 24 hours to complete one rotation around its axis.The period of rotation is known as the Earthday.The Earth revolves around the Sun in an elliptical orbit.Which of the statements given above is/are correct? (UPSC 2013)\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the motions of the Earth:The Earth takes about 24 hours to complete one rotation around its axis.The period of rotation is known as the Earthday.The Earth revolves around the Sun in an elliptical orbit.Which of the statements given above is/are correct? (UPSC 2013)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q26",
+        "number": 26,
+        "rawText": "26. Consider the following statements regarding the heat zones of the Earth:The Torrid Zone receives the maximum heat as the mid-day sun is exactly overhead at least once a year.The Temperate Zones have moderate temperatures as the angle of the sun's rays goes on decreasing towards the poles.The Frigid Zones are very cold as the sun does not rise much above the horizon.Which of the statements given above is/are correct?\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the heat zones of the Earth:The Torrid Zone receives the maximum heat as the mid-day sun is exactly overhead at least once a year.The Temperate Zones have moderate temperatures as the angle of the sun's rays goes on decreasing towards the poles.The Frigid Zones are very cold as the sun does not rise much above the horizon.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q27",
+        "number": 27,
+        "rawText": "27. If the Earth did not rotate on its axis, which of the following would be the most likely consequence?\n(a) There would be no seasons.\n(b) One half of the Earth would experience continuous day and the other half continuous night.\n(c) The Earth would stop revolving around the Sun.\n(d) The length of a year would change.",
+        "stem": "If the Earth did not rotate on its axis, which of the following would be the most likely consequence?",
+        "options": [
+          {
+            "key": "a",
+            "text": "There would be no seasons."
+          },
+          {
+            "key": "b",
+            "text": "One half of the Earth would experience continuous day and the other half continuous night."
+          },
+          {
+            "key": "c",
+            "text": "The Earth would stop revolving around the Sun."
+          },
+          {
+            "key": "d",
+            "text": "The length of a year would change."
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q28",
+        "number": 28,
+        "rawText": "28. Consider the following statements regarding the atmosphere:The density of the atmosphere is maximum at sea level.The temperature decreases as we go upwards in the atmosphere.Air moves from low pressure to high pressure.Which of the statements given above is/are correct?\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the atmosphere:The density of the atmosphere is maximum at sea level.The temperature decreases as we go upwards in the atmosphere.Air moves from low pressure to high pressure.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q29",
+        "number": 29,
+        "rawText": "29. Which of the following is the correct sequence of the given planets in increasing order of their size?\n(a) Mercury, Mars, Venus, Earth\n(b) Mars, Mercury, Venus, Earth\n(c) Mercury, Venus, Mars, Earth\n(d) Venus, Mercury, Mars, Earth",
+        "stem": "Which of the following is the correct sequence of the given planets in increasing order of their size?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Mercury, Mars, Venus, Earth"
+          },
+          {
+            "key": "b",
+            "text": "Mars, Mercury, Venus, Earth"
+          },
+          {
+            "key": "c",
+            "text": "Mercury, Venus, Mars, Earth"
+          },
+          {
+            "key": "d",
+            "text": "Venus, Mercury, Mars, Earth"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q30",
+        "number": 30,
+        "rawText": "30. Consider the following statements regarding the Moon:The Moon's diameter is one-quarter that of the Earth.The Moon is about 3,84,400 km away from the Earth.The Moon has water and air.Which of the statements given above is/are correct?\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the Moon:The Moon's diameter is one-quarter that of the Earth.The Moon is about 3,84,400 km away from the Earth.The Moon has water and air.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q31",
+        "number": 31,
+        "rawText": "31. The 'Standard Meridian of India' is:\n(a) 68°7'E\n(b) 82°30'E\n(c) 97°25'E\n(d) 90°E",
+        "stem": "The 'Standard Meridian of India' is:",
+        "options": [
+          {
+            "key": "a",
+            "text": "68°7'E"
+          },
+          {
+            "key": "b",
+            "text": "82°30'E"
+          },
+          {
+            "key": "c",
+            "text": "97°25'E"
+          },
+          {
+            "key": "d",
+            "text": "90°E"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q32",
+        "number": 32,
+        "rawText": "32. Consider the following statements regarding the continents:Asia is the largest continent.Africa is the only continent through which the Tropic of Cancer, the Equator and the Tropic of Capricorn pass.Australia is the smallest continent.Which of the statements given above is/are correct?\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the continents:Asia is the largest continent.Africa is the only continent through which the Tropic of Cancer, the Equator and the Tropic of Capricorn pass.Australia is the smallest continent.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q33",
+        "number": 33,
+        "rawText": "33. Which of the following is the correct sequence of the given ocean currents in terms of their size?\n(a) Pacific, Atlantic, Indian, Southern, Arctic\n(b) Atlantic, Pacific, Indian, Arctic, Southern\n(c) Indian, Pacific, Atlantic, Southern, Arctic\n(d) Pacific, Indian, Atlantic, Arctic, Southern",
+        "stem": "Which of the following is the correct sequence of the given ocean currents in terms of their size?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Pacific, Atlantic, Indian, Southern, Arctic"
+          },
+          {
+            "key": "b",
+            "text": "Atlantic, Pacific, Indian, Arctic, Southern"
+          },
+          {
+            "key": "c",
+            "text": "Indian, Pacific, Atlantic, Southern, Arctic"
+          },
+          {
+            "key": "d",
+            "text": "Pacific, Indian, Atlantic, Arctic, Southern"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q34",
+        "number": 34,
+        "rawText": "34. Consider the following statements regarding the biosphere:The biosphere is the narrow zone of contact between land, water and air.All living organisms are linked to each other and to the biosphere for survival.The organisms in the biosphere are divided into the plant kingdom and the animal kingdom.Which of the statements given above is/are correct?\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the biosphere:The biosphere is the narrow zone of contact between land, water and air.All living organisms are linked to each other and to the biosphere for survival.The organisms in the biosphere are divided into the plant kingdom and the animal kingdom.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q35",
+        "number": 35,
+        "rawText": "35. Which of the following is the correct sequence of the given layers of the atmosphere from the Earth's surface upwards?\n(a) Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere\n(b) Stratosphere, Troposphere, Mesosphere, Thermosphere, Exosphere\n(c) Troposphere, Mesosphere, Stratosphere, Thermosphere, Exosphere\n(d) Troposphere, Stratosphere, Thermosphere, Mesosphere, Exosphere",
+        "stem": "Which of the following is the correct sequence of the given layers of the atmosphere from the Earth's surface upwards?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "b",
+            "text": "Stratosphere, Troposphere, Mesosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "c",
+            "text": "Troposphere, Mesosphere, Stratosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "d",
+            "text": "Troposphere, Stratosphere, Thermosphere, Mesosphere, Exosphere"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q36",
+        "number": 36,
+        "rawText": "36. Consider the following statements regarding the motions of the Earth:The Earth's axis makes an angle of 66½° with its orbital plane.The circle that divides day from night on the globe is called the circle of illumination.The Earth takes 365¼ days to complete one revolution around the Sun.Which of the statements given above is/are correct?\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the motions of the Earth:The Earth's axis makes an angle of 66½° with its orbital plane.The circle that divides day from night on the globe is called the circle of illumination.The Earth takes 365¼ days to complete one revolution around the Sun.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q37",
+        "number": 37,
+        "rawText": "37. Which of the following is the correct sequence of the given landforms in increasing order of their elevation?\n(a) Plains, Plateaus, Mountains\n(b) Plateaus, Plains, Mountains\n(c) Mountains, Plateaus, Plains\n(d) Plains, Mountains, Plateaus",
+        "stem": "Which of the following is the correct sequence of the given landforms in increasing order of their elevation?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Plains, Plateaus, Mountains"
+          },
+          {
+            "key": "b",
+            "text": "Plateaus, Plains, Mountains"
+          },
+          {
+            "key": "c",
+            "text": "Mountains, Plateaus, Plains"
+          },
+          {
+            "key": "d",
+            "text": "Plains, Mountains, Plateaus"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q38",
+        "number": 38,
+        "rawText": "38. Consider the following statements regarding the Indian Standard Time (IST):The longitude of 82½° E is treated as the Standard Meridian of India.IST is 5 hours and 30 minutes ahead of GMT.The local time changes by four minutes for every one degree of longitude.Which of the statements given above is/are correct?\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the Indian Standard Time (IST):The longitude of 82½° E is treated as the Standard Meridian of India.IST is 5 hours and 30 minutes ahead of GMT.The local time changes by four minutes for every one degree of longitude.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q39",
+        "number": 39,
+        "rawText": "39. Which of the following is the correct sequence of the given planets in increasing order of their distance from the Sun?\n(a) Mercury, Venus, Earth, Mars\n(b) Venus, Mercury, Mars, Earth\n(c) Mercury, Earth, Venus, Mars\n(d) Venus, Earth, Mercury, Mars",
+        "stem": "Which of the following is the correct sequence of the given planets in increasing order of their distance from the Sun?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Mercury, Venus, Earth, Mars"
+          },
+          {
+            "key": "b",
+            "text": "Venus, Mercury, Mars, Earth"
+          },
+          {
+            "key": "c",
+            "text": "Mercury, Earth, Venus, Mars"
+          },
+          {
+            "key": "d",
+            "text": "Venus, Earth, Mercury, Mars"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q40",
+        "number": 40,
+        "rawText": "40. Consider the following statements regarding the continents:Asia is the largest continent.Africa is the second largest continent.North America is the third largest continent.Which of the statements given above is/are correct?\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the continents:Asia is the largest continent.Africa is the second largest continent.North America is the third largest continent.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q41",
+        "number": 41,
+        "rawText": "41. Which of the following is the correct sequence of the given ocean currents in terms of their size?\n(a) Pacific, Atlantic, Indian, Southern, Arctic\n(b) Atlantic, Pacific, Indian, Arctic, Southern\n(c) Indian, Pacific, Atlantic, Southern, Arctic\n(d) Pacific, Indian, Atlantic, Arctic, Southern",
+        "stem": "Which of the following is the correct sequence of the given ocean currents in terms of their size?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Pacific, Atlantic, Indian, Southern, Arctic"
+          },
+          {
+            "key": "b",
+            "text": "Atlantic, Pacific, Indian, Arctic, Southern"
+          },
+          {
+            "key": "c",
+            "text": "Indian, Pacific, Atlantic, Southern, Arctic"
+          },
+          {
+            "key": "d",
+            "text": "Pacific, Indian, Atlantic, Arctic, Southern"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q42",
+        "number": 42,
+        "rawText": "42. Consider the following statements regarding the biosphere:The biosphere is the narrow zone of contact between land, water and air.All living organisms are linked to each other and to the biosphere for survival.The organisms in the biosphere are divided into the plant kingdom and the animal kingdom.Which of the statements given above is/are correct?\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the biosphere:The biosphere is the narrow zone of contact between land, water and air.All living organisms are linked to each other and to the biosphere for survival.The organisms in the biosphere are divided into the plant kingdom and the animal kingdom.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q43",
+        "number": 43,
+        "rawText": "43. Which of the following is the correct sequence of the given layers of the atmosphere from the Earth's surface upwards?\n(a) Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere\n(b) Stratosphere, Troposphere, Mesosphere, Thermosphere, Exosphere\n(c) Troposphere, Mesosphere, Stratosphere, Thermosphere, Exosphere\n(d) Troposphere, Stratosphere, Thermosphere, Mesosphere, Exosphere",
+        "stem": "Which of the following is the correct sequence of the given layers of the atmosphere from the Earth's surface upwards?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "b",
+            "text": "Stratosphere, Troposphere, Mesosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "c",
+            "text": "Troposphere, Mesosphere, Stratosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "d",
+            "text": "Troposphere, Stratosphere, Thermosphere, Mesosphere, Exosphere"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q44",
+        "number": 44,
+        "rawText": "44. Consider the following statements regarding the motions of the Earth:The Earth's axis makes an angle of 66½° with its orbital plane.\nThe circle that divides day from night on the globe is called the circle of illumination.The Earth takes 365¼ days to complete one revolution around the Sun.Which of the statements given above is/are correct?\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the motions of the Earth:The Earth's axis makes an angle of 66½° with its orbital plane.\nThe circle that divides day from night on the globe is called the circle of illumination.The Earth takes 365¼ days to complete one revolution around the Sun.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q45",
+        "number": 45,
+        "rawText": "45. Which of the following is the correct sequence of the given landforms in increasing order of their elevation?\n(a) Plains, Plateaus, Mountains\n(b) Plateaus, Plains, Mountains\n(c) Mountains, Plateaus, Plains\n(d) Plains, Mountains, Plateaus",
+        "stem": "Which of the following is the correct sequence of the given landforms in increasing order of their elevation?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Plains, Plateaus, Mountains"
+          },
+          {
+            "key": "b",
+            "text": "Plateaus, Plains, Mountains"
+          },
+          {
+            "key": "c",
+            "text": "Mountains, Plateaus, Plains"
+          },
+          {
+            "key": "d",
+            "text": "Plains, Mountains, Plateaus"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q46",
+        "number": 46,
+        "rawText": "46. Imagine you are standing at the Equator at 12:00 noon on 21st March. Which of the following statements is correct regarding your shadow?\n(a) You will cast a shadow towards the North.\n(b) You will cast a shadow towards the South.\n(c) You will cast no shadow.\n(d) You will cast a shadow towards the East.",
+        "stem": "Imagine you are standing at the Equator at 12:00 noon on 21st March. Which of the following statements is correct regarding your shadow?",
+        "options": [
+          {
+            "key": "a",
+            "text": "You will cast a shadow towards the North."
+          },
+          {
+            "key": "b",
+            "text": "You will cast a shadow towards the South."
+          },
+          {
+            "key": "c",
+            "text": "You will cast no shadow."
+          },
+          {
+            "key": "d",
+            "text": "You will cast a shadow towards the East."
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q47",
+        "number": 47,
+        "rawText": "47. If the Earth rotated from East to West instead of West to East, which of the following would be the most likely consequence?\n(a) The Sun would rise in the West and set in the East.\n(b) The length of a day would increase.\n(c) The seasons would reverse.\n(d) The Earth would stop revolving around the Sun.",
+        "stem": "If the Earth rotated from East to West instead of West to East, which of the following would be the most likely consequence?",
+        "options": [
+          {
+            "key": "a",
+            "text": "The Sun would rise in the West and set in the East."
+          },
+          {
+            "key": "b",
+            "text": "The length of a day would increase."
+          },
+          {
+            "key": "c",
+            "text": "The seasons would reverse."
+          },
+          {
+            "key": "d",
+            "text": "The Earth would stop revolving around the Sun."
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q48",
+        "number": 48,
+        "rawText": "48. A satellite is positioned at the Equator. If it is to remain stationary relative to the Earth's surface, what should be its orbital period?\n(a) 12 hours\n(b) 24 hours\n(c) 27 days\n(d) 365 days",
+        "stem": "A satellite is positioned at the Equator. If it is to remain stationary relative to the Earth's surface, what should be its orbital period?",
+        "options": [
+          {
+            "key": "a",
+            "text": "12 hours"
+          },
+          {
+            "key": "b",
+            "text": "24 hours"
+          },
+          {
+            "key": "c",
+            "text": "27 days"
+          },
+          {
+            "key": "d",
+            "text": "365 days"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q49",
+        "number": 49,
+        "rawText": "49. You are traveling from Kolkata (88°E) to London (0°). If it is 12:00 noon in London, what will be the local time in Kolkata?\n(a) 5:30 PM\n(b) 6:00 PM\n(c) 5:52 PM\n(d) 6:08 PM",
+        "stem": "You are traveling from Kolkata (88°E) to London (0°). If it is 12:00 noon in London, what will be the local time in Kolkata?",
+        "options": [
+          {
+            "key": "a",
+            "text": "5:30 PM"
+          },
+          {
+            "key": "b",
+            "text": "6:00 PM"
+          },
+          {
+            "key": "c",
+            "text": "5:52 PM"
+          },
+          {
+            "key": "d",
+            "text": "6:08 PM"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q50",
+        "number": 50,
+        "rawText": "50. If the Earth's axis were perpendicular to its orbital plane (i.e., no tilt), which of the following would be the most likely consequence?\n(a) There would be no seasons.\n(b) The length of a day would change.\n(c) The Earth would stop rotating.\n(d) The poles would experience continuous daylight.",
+        "stem": "If the Earth's axis were perpendicular to its orbital plane (i.e., no tilt), which of the following would be the most likely consequence?",
+        "options": [
+          {
+            "key": "a",
+            "text": "There would be no seasons."
+          },
+          {
+            "key": "b",
+            "text": "The length of a day would change."
+          },
+          {
+            "key": "c",
+            "text": "The Earth would stop rotating."
+          },
+          {
+            "key": "d",
+            "text": "The poles would experience continuous daylight."
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      }
+    ],
+    "createdAt": 1791380432.1812947
+  },
+  "exam_1791380987": {
+    "id": "exam_1791380987",
+    "title": "LBSNAA - Civil Services Examination (Number System)",
+    "description": "Computer Based Test Exam",
+    "durationMinutes": 30,
+    "positiveMarks": 1.0,
+    "negativeMarks": 0.33,
+    "shuffle": false,
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "rawText": "1. Consider the following statements regarding the Earth's rotation and revolution:\nThe Earth's axis makes an angle of 66½° with its orbital plane.\nThe Earth takes 365¼ days to complete one revolution around the Sun.\nThe circle that divides day from night on the globe is called the circle of illumination.\nWhich of the statements given above is/are correct? (UPSC 2013)\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the Earth's rotation and revolution:\nThe Earth's axis makes an angle of 66½° with its orbital plane.\nThe Earth takes 365¼ days to complete one revolution around the Sun.\nThe circle that divides day from night on the globe is called the circle of illumination.\nWhich of the statements given above is/are correct? (UPSC 2013)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "rawText": "2. The Tropic of Cancer passes through which of the following continents?Asia Africa North America South America\nSelect the correct answer using the code given below: (UPSC 2014)\n(a) 1 and 2 only\n(b) 1, 2 and 3 only\n(c) 2 and 4 only\n(d) 1, 2, 3 and 4",
+        "stem": "The Tropic of Cancer passes through which of the following continents?Asia Africa North America South America\nSelect the correct answer using the code given below: (UPSC 2014)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "1, 2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "2 and 4 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2, 3 and 4"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "rawText": "3. Which one of the following is the correct sequence of the given planets in increasing order of their distance from the Sun? (UPSC 2015)\n(a) Mercury, Venus, Earth, Mars\n(b) Venus, Mercury, Mars, Earth\n(c) Mercury, Earth, Venus, Mars\n(d) Venus, Earth, Mercury, Mars",
+        "stem": "Which one of the following is the correct sequence of the given planets in increasing order of their distance from the Sun? (UPSC 2015)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Mercury, Venus, Earth, Mars"
+          },
+          {
+            "key": "b",
+            "text": "Venus, Mercury, Mars, Earth"
+          },
+          {
+            "key": "c",
+            "text": "Mercury, Earth, Venus, Mars"
+          },
+          {
+            "key": "d",
+            "text": "Venus, Earth, Mercury, Mars"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "rawText": "4. Consider the following statements:\nThe Prime Meridian passes through Greenwich.\nThe 180° East and 180° West meridians are on the same line.\nThe Earth rotates 360° in about 24 hours, which means 15° an hour.\nWhich of the statements given above is/are correct? (UPSC 2016)\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements:\nThe Prime Meridian passes through Greenwich.\nThe 180° East and 180° West meridians are on the same line.\nThe Earth rotates 360° in about 24 hours, which means 15° an hour.\nWhich of the statements given above is/are correct? (UPSC 2016)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q5",
+        "number": 5,
+        "rawText": "5. The 'Great Indian Desert' is located in which of the following states? (UPSC 2017)\n(a) Gujarat\n(b) Rajasthan\n(c) Haryana\n(d) Punjab",
+        "stem": "The 'Great Indian Desert' is located in which of the following states? (UPSC 2017)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Gujarat"
+          },
+          {
+            "key": "b",
+            "text": "Rajasthan"
+          },
+          {
+            "key": "c",
+            "text": "Haryana"
+          },
+          {
+            "key": "d",
+            "text": "Punjab"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q6",
+        "number": 6,
+        "rawText": "6. Which one of the following is the largest continent in terms of area? (UPSC 2018)\n(a) Africa\n(b) Asia\n(c) North America\n(d) Europe",
+        "stem": "Which one of the following is the largest continent in terms of area? (UPSC 2018)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Africa"
+          },
+          {
+            "key": "b",
+            "text": "Asia"
+          },
+          {
+            "key": "c",
+            "text": "North America"
+          },
+          {
+            "key": "d",
+            "text": "Europe"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q7",
+        "number": 7,
+        "rawText": "7. Consider the following statements regarding the atmosphere:The atmosphere is composed mainly of nitrogen and oxygen. Nitrogen helps in the growth of living organisms.Carbon dioxide absorbs heat radiated by the earth.Which of the statements given above is/are correct? (UPSC 2019)\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the atmosphere:The atmosphere is composed mainly of nitrogen and oxygen. Nitrogen helps in the growth of living organisms.Carbon dioxide absorbs heat radiated by the earth.Which of the statements given above is/are correct? (UPSC 2019)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q8",
+        "number": 8,
+        "rawText": "8. The 'Palk Strait' separates which of the following pairs of countries? (UPSC 2020)\n(a) India and Maldives\n(b) India and Sri Lanka\n(c) Sri Lanka and Maldives\n(d) India and Bangladesh",
+        "stem": "The 'Palk Strait' separates which of the following pairs of countries? (UPSC 2020)",
+        "options": [
+          {
+            "key": "a",
+            "text": "India and Maldives"
+          },
+          {
+            "key": "b",
+            "text": "India and Sri Lanka"
+          },
+          {
+            "key": "c",
+            "text": "Sri Lanka and Maldives"
+          },
+          {
+            "key": "d",
+            "text": "India and Bangladesh"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q9",
+        "number": 9,
+        "rawText": "9. Which one of the following is the highest plateau in the world? (UPSC 2021)\n(a) Deccan Plateau\n(b) East African Plateau\n(c) Tibet Plateau\n(d) Western Plateau of Australia",
+        "stem": "Which one of the following is the highest plateau in the world? (UPSC 2021)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Deccan Plateau"
+          },
+          {
+            "key": "b",
+            "text": "East African Plateau"
+          },
+          {
+            "key": "c",
+            "text": "Tibet Plateau"
+          },
+          {
+            "key": "d",
+            "text": "Western Plateau of Australia"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q10",
+        "number": 10,
+        "rawText": "10. Consider the following statements regarding the motions of the Earth:Rotation is the movement of the Earth on its axis.Revolution is the movement of the Earth around the Sun in a fixed path.A leap year has 366 days.Which of the statements given above is/are correct? (UPSC 2022)\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the motions of the Earth:Rotation is the movement of the Earth on its axis.Revolution is the movement of the Earth around the Sun in a fixed path.A leap year has 366 days.Which of the statements given above is/are correct? (UPSC 2022)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q11",
+        "number": 11,
+        "rawText": "11. The 'Sundarbans Delta' is formed by which of the following rivers? (UPSC 2023)\n(a) Ganga and Yamuna\n(b) Ganga and Brahmaputra\n(c) Indus and Sutlej\n(d) Mahanadi and Godavari",
+        "stem": "The 'Sundarbans Delta' is formed by which of the following rivers? (UPSC 2023)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Ganga and Yamuna"
+          },
+          {
+            "key": "b",
+            "text": "Ganga and Brahmaputra"
+          },
+          {
+            "key": "c",
+            "text": "Indus and Sutlej"
+          },
+          {
+            "key": "d",
+            "text": "Mahanadi and Godavari"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q12",
+        "number": 12,
+        "rawText": "12. Which one of the following is the correct order of the layers of the atmosphere from the Earth's surface upwards? (UPSC 2024)\n(a) Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere\n(b) Stratosphere, Troposphere, Mesosphere, Thermosphere, Exosphere\n(c) Troposphere, Mesosphere, Stratosphere, Thermosphere, Exosphere\n(d) Troposphere, Stratosphere, Thermosphere, Mesosphere, Exosphere",
+        "stem": "Which one of the following is the correct order of the layers of the atmosphere from the Earth's surface upwards? (UPSC 2024)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "b",
+            "text": "Stratosphere, Troposphere, Mesosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "c",
+            "text": "Troposphere, Mesosphere, Stratosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "d",
+            "text": "Troposphere, Stratosphere, Thermosphere, Mesosphere, Exosphere"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q13",
+        "number": 13,
+        "rawText": "13. Consider the following statements:The Earth is the third nearest planet to the Sun.The Earth is slightly flattened at the poles.The shape of the Earth is described as a Geoid.Which of the statements given above is/are correct? (UPSC 2013)\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements:The Earth is the third nearest planet to the Sun.The Earth is slightly flattened at the poles.The shape of the Earth is described as a Geoid.Which of the statements given above is/are correct? (UPSC 2013)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q14",
+        "number": 14,
+        "rawText": "14. Which one of the following is the smallest continent that lies entirely in the Southern Hemisphere? (UPSC 2014)\n(a) Antarctica\n(b) Australia\n(c) South America\n(d) Africa",
+        "stem": "Which one of the following is the smallest continent that lies entirely in the Southern Hemisphere? (UPSC 2014)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Antarctica"
+          },
+          {
+            "key": "b",
+            "text": "Australia"
+          },
+          {
+            "key": "c",
+            "text": "South America"
+          },
+          {
+            "key": "d",
+            "text": "Africa"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q15",
+        "number": 15,
+        "rawText": "15. The 'Mariana Trench', the deepest part of the Earth, lies in which ocean? (UPSC 2015)\n(a) Atlantic Ocean\n(b) Indian Ocean\n(c) Pacific Ocean\n(d) Arctic Ocean",
+        "stem": "The 'Mariana Trench', the deepest part of the Earth, lies in which ocean? (UPSC 2015)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Atlantic Ocean"
+          },
+          {
+            "key": "b",
+            "text": "Indian Ocean"
+          },
+          {
+            "key": "c",
+            "text": "Pacific Ocean"
+          },
+          {
+            "key": "d",
+            "text": "Arctic Ocean"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q16",
+        "number": 16,
+        "rawText": "16. Consider the following statements regarding latitudes:The equator represents the zero degree latitude.All parallels north of the equator are called 'north latitudes'.The value of each latitude is followed by either the word north or south.Which of the statements given above is/are correct? (UPSC 2016)\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding latitudes:The equator represents the zero degree latitude.All parallels north of the equator are called 'north latitudes'.The value of each latitude is followed by either the word north or south.Which of the statements given above is/are correct? (UPSC 2016)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q17",
+        "number": 17,
+        "rawText": "17. Which one of the following is the largest ocean in the world? (UPSC 2017)\n(a) Atlantic Ocean\n(b) Indian Ocean\n(c) Pacific Ocean\n(d) Southern Ocean",
+        "stem": "Which one of the following is the largest ocean in the world? (UPSC 2017)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Atlantic Ocean"
+          },
+          {
+            "key": "b",
+            "text": "Indian Ocean"
+          },
+          {
+            "key": "c",
+            "text": "Pacific Ocean"
+          },
+          {
+            "key": "d",
+            "text": "Southern Ocean"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q18",
+        "number": 18,
+        "rawText": "18. The 'Aravali Hills' are located in which part of India? (UPSC 2018)\n(a) North-West\n(b) North-East\n(c) South-West\n(d) South-East",
+        "stem": "The 'Aravali Hills' are located in which part of India? (UPSC 2018)",
+        "options": [
+          {
+            "key": "a",
+            "text": "North-West"
+          },
+          {
+            "key": "b",
+            "text": "North-East"
+          },
+          {
+            "key": "c",
+            "text": "South-West"
+          },
+          {
+            "key": "d",
+            "text": "South-East"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q19",
+        "number": 19,
+        "rawText": "19. Consider the following statements regarding the Moon:The Moon moves around the Earth in about 27 days.The Moon takes exactly the same time to complete one spin.Only one side of the Moon is visible to us on the Earth.Which of the statements given above is/are correct? (UPSC 2019)\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the Moon:The Moon moves around the Earth in about 27 days.The Moon takes exactly the same time to complete one spin.Only one side of the Moon is visible to us on the Earth.Which of the statements given above is/are correct? (UPSC 2019)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q20",
+        "number": 20,
+        "rawText": "20. Which one of the following is the correct sequence of the given landforms in increasing order of their elevation? (UPSC 2020)\n(a) Plains, Plateaus, Mountains\n(b) Plateaus, Plains, Mountains\n(c) Mountains, Plateaus, Plains\n(d) Plains, Mountains, Plateaus",
+        "stem": "Which one of the following is the correct sequence of the given landforms in increasing order of their elevation? (UPSC 2020)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Plains, Plateaus, Mountains"
+          },
+          {
+            "key": "b",
+            "text": "Plateaus, Plains, Mountains"
+          },
+          {
+            "key": "c",
+            "text": "Mountains, Plateaus, Plains"
+          },
+          {
+            "key": "d",
+            "text": "Plains, Mountains, Plateaus"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q21",
+        "number": 21,
+        "rawText": "21. The 'Isthmus of Panama' connects which of the following pairs of continents? (UPSC 2021)\n(a) Asia and Europe\n(b) North America and South America\n(c) Africa and Asia\n(d) Europe and Africa",
+        "stem": "The 'Isthmus of Panama' connects which of the following pairs of continents? (UPSC 2021)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Asia and Europe"
+          },
+          {
+            "key": "b",
+            "text": "North America and South America"
+          },
+          {
+            "key": "c",
+            "text": "Africa and Asia"
+          },
+          {
+            "key": "d",
+            "text": "Europe and Africa"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q22",
+        "number": 22,
+        "rawText": "22. Consider the following statements regarding the Indian Standard Time (IST):The longitude of 82½° E is treated as the Standard Meridian of India.\nIST is 5 hours and 30 minutes ahead of GMT.The local time changes by four minutes for every one degree of longitude.Which of the statements given above is/are correct? (UPSC 2022)\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the Indian Standard Time (IST):The longitude of 82½° E is treated as the Standard Meridian of India.\nIST is 5 hours and 30 minutes ahead of GMT.The local time changes by four minutes for every one degree of longitude.Which of the statements given above is/are correct? (UPSC 2022)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q23",
+        "number": 23,
+        "rawText": "23. Which one of the following is the largest state in India in terms of area? (UPSC 2023)\n(a) Madhya Pradesh\n(b) Maharashtra\n(c) Rajasthan\n(d) Uttar Pradesh",
+        "stem": "Which one of the following is the largest state in India in terms of area? (UPSC 2023)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Madhya Pradesh"
+          },
+          {
+            "key": "b",
+            "text": "Maharashtra"
+          },
+          {
+            "key": "c",
+            "text": "Rajasthan"
+          },
+          {
+            "key": "d",
+            "text": "Uttar Pradesh"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q24",
+        "number": 24,
+        "rawText": "24. The 'Gir Forest' in Gujarat is the home of which of the following animals? (UPSC 2024)\n(a) Tiger\n(b) Asiatic Lion\n(c) Elephant\n(d) One-horned Rhinoceros",
+        "stem": "The 'Gir Forest' in Gujarat is the home of which of the following animals? (UPSC 2024)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Tiger"
+          },
+          {
+            "key": "b",
+            "text": "Asiatic Lion"
+          },
+          {
+            "key": "c",
+            "text": "Elephant"
+          },
+          {
+            "key": "d",
+            "text": "One-horned Rhinoceros"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q25",
+        "number": 25,
+        "rawText": "25. Consider the following statements regarding the motions of the Earth:The Earth takes about 24 hours to complete one rotation around its axis.The period of rotation is known as the Earthday.The Earth revolves around the Sun in an elliptical orbit.Which of the statements given above is/are correct? (UPSC 2013)\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the motions of the Earth:The Earth takes about 24 hours to complete one rotation around its axis.The period of rotation is known as the Earthday.The Earth revolves around the Sun in an elliptical orbit.Which of the statements given above is/are correct? (UPSC 2013)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q26",
+        "number": 26,
+        "rawText": "26. Consider the following statements regarding the heat zones of the Earth:The Torrid Zone receives the maximum heat as the mid-day sun is exactly overhead at least once a year.The Temperate Zones have moderate temperatures as the angle of the sun's rays goes on decreasing towards the poles.The Frigid Zones are very cold as the sun does not rise much above the horizon.Which of the statements given above is/are correct?\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the heat zones of the Earth:The Torrid Zone receives the maximum heat as the mid-day sun is exactly overhead at least once a year.The Temperate Zones have moderate temperatures as the angle of the sun's rays goes on decreasing towards the poles.The Frigid Zones are very cold as the sun does not rise much above the horizon.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q27",
+        "number": 27,
+        "rawText": "27. If the Earth did not rotate on its axis, which of the following would be the most likely consequence?\n(a) There would be no seasons.\n(b) One half of the Earth would experience continuous day and the other half continuous night.\n(c) The Earth would stop revolving around the Sun.\n(d) The length of a year would change.",
+        "stem": "If the Earth did not rotate on its axis, which of the following would be the most likely consequence?",
+        "options": [
+          {
+            "key": "a",
+            "text": "There would be no seasons."
+          },
+          {
+            "key": "b",
+            "text": "One half of the Earth would experience continuous day and the other half continuous night."
+          },
+          {
+            "key": "c",
+            "text": "The Earth would stop revolving around the Sun."
+          },
+          {
+            "key": "d",
+            "text": "The length of a year would change."
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q28",
+        "number": 28,
+        "rawText": "28. Consider the following statements regarding the atmosphere:The density of the atmosphere is maximum at sea level.The temperature decreases as we go upwards in the atmosphere.Air moves from low pressure to high pressure.Which of the statements given above is/are correct?\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the atmosphere:The density of the atmosphere is maximum at sea level.The temperature decreases as we go upwards in the atmosphere.Air moves from low pressure to high pressure.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q29",
+        "number": 29,
+        "rawText": "29. Which of the following is the correct sequence of the given planets in increasing order of their size?\n(a) Mercury, Mars, Venus, Earth\n(b) Mars, Mercury, Venus, Earth\n(c) Mercury, Venus, Mars, Earth\n(d) Venus, Mercury, Mars, Earth",
+        "stem": "Which of the following is the correct sequence of the given planets in increasing order of their size?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Mercury, Mars, Venus, Earth"
+          },
+          {
+            "key": "b",
+            "text": "Mars, Mercury, Venus, Earth"
+          },
+          {
+            "key": "c",
+            "text": "Mercury, Venus, Mars, Earth"
+          },
+          {
+            "key": "d",
+            "text": "Venus, Mercury, Mars, Earth"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q30",
+        "number": 30,
+        "rawText": "30. Consider the following statements regarding the Moon:The Moon's diameter is one-quarter that of the Earth.The Moon is about 3,84,400 km away from the Earth.The Moon has water and air.Which of the statements given above is/are correct?\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the Moon:The Moon's diameter is one-quarter that of the Earth.The Moon is about 3,84,400 km away from the Earth.The Moon has water and air.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q31",
+        "number": 31,
+        "rawText": "31. The 'Standard Meridian of India' is:\n(a) 68°7'E\n(b) 82°30'E\n(c) 97°25'E\n(d) 90°E",
+        "stem": "The 'Standard Meridian of India' is:",
+        "options": [
+          {
+            "key": "a",
+            "text": "68°7'E"
+          },
+          {
+            "key": "b",
+            "text": "82°30'E"
+          },
+          {
+            "key": "c",
+            "text": "97°25'E"
+          },
+          {
+            "key": "d",
+            "text": "90°E"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q32",
+        "number": 32,
+        "rawText": "32. Consider the following statements regarding the continents:Asia is the largest continent.Africa is the only continent through which the Tropic of Cancer, the Equator and the Tropic of Capricorn pass.Australia is the smallest continent.Which of the statements given above is/are correct?\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the continents:Asia is the largest continent.Africa is the only continent through which the Tropic of Cancer, the Equator and the Tropic of Capricorn pass.Australia is the smallest continent.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q33",
+        "number": 33,
+        "rawText": "33. Which of the following is the correct sequence of the given ocean currents in terms of their size?\n(a) Pacific, Atlantic, Indian, Southern, Arctic\n(b) Atlantic, Pacific, Indian, Arctic, Southern\n(c) Indian, Pacific, Atlantic, Southern, Arctic\n(d) Pacific, Indian, Atlantic, Arctic, Southern",
+        "stem": "Which of the following is the correct sequence of the given ocean currents in terms of their size?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Pacific, Atlantic, Indian, Southern, Arctic"
+          },
+          {
+            "key": "b",
+            "text": "Atlantic, Pacific, Indian, Arctic, Southern"
+          },
+          {
+            "key": "c",
+            "text": "Indian, Pacific, Atlantic, Southern, Arctic"
+          },
+          {
+            "key": "d",
+            "text": "Pacific, Indian, Atlantic, Arctic, Southern"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q34",
+        "number": 34,
+        "rawText": "34. Consider the following statements regarding the biosphere:The biosphere is the narrow zone of contact between land, water and air.All living organisms are linked to each other and to the biosphere for survival.The organisms in the biosphere are divided into the plant kingdom and the animal kingdom.Which of the statements given above is/are correct?\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the biosphere:The biosphere is the narrow zone of contact between land, water and air.All living organisms are linked to each other and to the biosphere for survival.The organisms in the biosphere are divided into the plant kingdom and the animal kingdom.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q35",
+        "number": 35,
+        "rawText": "35. Which of the following is the correct sequence of the given layers of the atmosphere from the Earth's surface upwards?\n(a) Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere\n(b) Stratosphere, Troposphere, Mesosphere, Thermosphere, Exosphere\n(c) Troposphere, Mesosphere, Stratosphere, Thermosphere, Exosphere\n(d) Troposphere, Stratosphere, Thermosphere, Mesosphere, Exosphere",
+        "stem": "Which of the following is the correct sequence of the given layers of the atmosphere from the Earth's surface upwards?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "b",
+            "text": "Stratosphere, Troposphere, Mesosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "c",
+            "text": "Troposphere, Mesosphere, Stratosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "d",
+            "text": "Troposphere, Stratosphere, Thermosphere, Mesosphere, Exosphere"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q36",
+        "number": 36,
+        "rawText": "36. Consider the following statements regarding the motions of the Earth:The Earth's axis makes an angle of 66½° with its orbital plane.The circle that divides day from night on the globe is called the circle of illumination.The Earth takes 365¼ days to complete one revolution around the Sun.Which of the statements given above is/are correct?\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the motions of the Earth:The Earth's axis makes an angle of 66½° with its orbital plane.The circle that divides day from night on the globe is called the circle of illumination.The Earth takes 365¼ days to complete one revolution around the Sun.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q37",
+        "number": 37,
+        "rawText": "37. Which of the following is the correct sequence of the given landforms in increasing order of their elevation?\n(a) Plains, Plateaus, Mountains\n(b) Plateaus, Plains, Mountains\n(c) Mountains, Plateaus, Plains\n(d) Plains, Mountains, Plateaus",
+        "stem": "Which of the following is the correct sequence of the given landforms in increasing order of their elevation?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Plains, Plateaus, Mountains"
+          },
+          {
+            "key": "b",
+            "text": "Plateaus, Plains, Mountains"
+          },
+          {
+            "key": "c",
+            "text": "Mountains, Plateaus, Plains"
+          },
+          {
+            "key": "d",
+            "text": "Plains, Mountains, Plateaus"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q38",
+        "number": 38,
+        "rawText": "38. Consider the following statements regarding the Indian Standard Time (IST):The longitude of 82½° E is treated as the Standard Meridian of India.IST is 5 hours and 30 minutes ahead of GMT.The local time changes by four minutes for every one degree of longitude.Which of the statements given above is/are correct?\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the Indian Standard Time (IST):The longitude of 82½° E is treated as the Standard Meridian of India.IST is 5 hours and 30 minutes ahead of GMT.The local time changes by four minutes for every one degree of longitude.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q39",
+        "number": 39,
+        "rawText": "39. Which of the following is the correct sequence of the given planets in increasing order of their distance from the Sun?\n(a) Mercury, Venus, Earth, Mars\n(b) Venus, Mercury, Mars, Earth\n(c) Mercury, Earth, Venus, Mars\n(d) Venus, Earth, Mercury, Mars",
+        "stem": "Which of the following is the correct sequence of the given planets in increasing order of their distance from the Sun?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Mercury, Venus, Earth, Mars"
+          },
+          {
+            "key": "b",
+            "text": "Venus, Mercury, Mars, Earth"
+          },
+          {
+            "key": "c",
+            "text": "Mercury, Earth, Venus, Mars"
+          },
+          {
+            "key": "d",
+            "text": "Venus, Earth, Mercury, Mars"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q40",
+        "number": 40,
+        "rawText": "40. Consider the following statements regarding the continents:Asia is the largest continent.Africa is the second largest continent.North America is the third largest continent.Which of the statements given above is/are correct?\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the continents:Asia is the largest continent.Africa is the second largest continent.North America is the third largest continent.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q41",
+        "number": 41,
+        "rawText": "41. Which of the following is the correct sequence of the given ocean currents in terms of their size?\n(a) Pacific, Atlantic, Indian, Southern, Arctic\n(b) Atlantic, Pacific, Indian, Arctic, Southern\n(c) Indian, Pacific, Atlantic, Southern, Arctic\n(d) Pacific, Indian, Atlantic, Arctic, Southern",
+        "stem": "Which of the following is the correct sequence of the given ocean currents in terms of their size?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Pacific, Atlantic, Indian, Southern, Arctic"
+          },
+          {
+            "key": "b",
+            "text": "Atlantic, Pacific, Indian, Arctic, Southern"
+          },
+          {
+            "key": "c",
+            "text": "Indian, Pacific, Atlantic, Southern, Arctic"
+          },
+          {
+            "key": "d",
+            "text": "Pacific, Indian, Atlantic, Arctic, Southern"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q42",
+        "number": 42,
+        "rawText": "42. Consider the following statements regarding the biosphere:The biosphere is the narrow zone of contact between land, water and air.All living organisms are linked to each other and to the biosphere for survival.The organisms in the biosphere are divided into the plant kingdom and the animal kingdom.Which of the statements given above is/are correct?\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the biosphere:The biosphere is the narrow zone of contact between land, water and air.All living organisms are linked to each other and to the biosphere for survival.The organisms in the biosphere are divided into the plant kingdom and the animal kingdom.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q43",
+        "number": 43,
+        "rawText": "43. Which of the following is the correct sequence of the given layers of the atmosphere from the Earth's surface upwards?\n(a) Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere\n(b) Stratosphere, Troposphere, Mesosphere, Thermosphere, Exosphere\n(c) Troposphere, Mesosphere, Stratosphere, Thermosphere, Exosphere\n(d) Troposphere, Stratosphere, Thermosphere, Mesosphere, Exosphere",
+        "stem": "Which of the following is the correct sequence of the given layers of the atmosphere from the Earth's surface upwards?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "b",
+            "text": "Stratosphere, Troposphere, Mesosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "c",
+            "text": "Troposphere, Mesosphere, Stratosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "d",
+            "text": "Troposphere, Stratosphere, Thermosphere, Mesosphere, Exosphere"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q44",
+        "number": 44,
+        "rawText": "44. Consider the following statements regarding the motions of the Earth:The Earth's axis makes an angle of 66½° with its orbital plane.\nThe circle that divides day from night on the globe is called the circle of illumination.The Earth takes 365¼ days to complete one revolution around the Sun.Which of the statements given above is/are correct?\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+        "stem": "Consider the following statements regarding the motions of the Earth:The Earth's axis makes an angle of 66½° with its orbital plane.\nThe circle that divides day from night on the globe is called the circle of illumination.The Earth takes 365¼ days to complete one revolution around the Sun.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q45",
+        "number": 45,
+        "rawText": "45. Which of the following is the correct sequence of the given landforms in increasing order of their elevation?\n(a) Plains, Plateaus, Mountains\n(b) Plateaus, Plains, Mountains\n(c) Mountains, Plateaus, Plains\n(d) Plains, Mountains, Plateaus",
+        "stem": "Which of the following is the correct sequence of the given landforms in increasing order of their elevation?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Plains, Plateaus, Mountains"
+          },
+          {
+            "key": "b",
+            "text": "Plateaus, Plains, Mountains"
+          },
+          {
+            "key": "c",
+            "text": "Mountains, Plateaus, Plains"
+          },
+          {
+            "key": "d",
+            "text": "Plains, Mountains, Plateaus"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q46",
+        "number": 46,
+        "rawText": "46. Imagine you are standing at the Equator at 12:00 noon on 21st March. Which of the following statements is correct regarding your shadow?\n(a) You will cast a shadow towards the North.\n(b) You will cast a shadow towards the South.\n(c) You will cast no shadow.\n(d) You will cast a shadow towards the East.",
+        "stem": "Imagine you are standing at the Equator at 12:00 noon on 21st March. Which of the following statements is correct regarding your shadow?",
+        "options": [
+          {
+            "key": "a",
+            "text": "You will cast a shadow towards the North."
+          },
+          {
+            "key": "b",
+            "text": "You will cast a shadow towards the South."
+          },
+          {
+            "key": "c",
+            "text": "You will cast no shadow."
+          },
+          {
+            "key": "d",
+            "text": "You will cast a shadow towards the East."
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q47",
+        "number": 47,
+        "rawText": "47. If the Earth rotated from East to West instead of West to East, which of the following would be the most likely consequence?\n(a) The Sun would rise in the West and set in the East.\n(b) The length of a day would increase.\n(c) The seasons would reverse.\n(d) The Earth would stop revolving around the Sun.",
+        "stem": "If the Earth rotated from East to West instead of West to East, which of the following would be the most likely consequence?",
+        "options": [
+          {
+            "key": "a",
+            "text": "The Sun would rise in the West and set in the East."
+          },
+          {
+            "key": "b",
+            "text": "The length of a day would increase."
+          },
+          {
+            "key": "c",
+            "text": "The seasons would reverse."
+          },
+          {
+            "key": "d",
+            "text": "The Earth would stop revolving around the Sun."
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q48",
+        "number": 48,
+        "rawText": "48. A satellite is positioned at the Equator. If it is to remain stationary relative to the Earth's surface, what should be its orbital period?\n(a) 12 hours\n(b) 24 hours\n(c) 27 days\n(d) 365 days",
+        "stem": "A satellite is positioned at the Equator. If it is to remain stationary relative to the Earth's surface, what should be its orbital period?",
+        "options": [
+          {
+            "key": "a",
+            "text": "12 hours"
+          },
+          {
+            "key": "b",
+            "text": "24 hours"
+          },
+          {
+            "key": "c",
+            "text": "27 days"
+          },
+          {
+            "key": "d",
+            "text": "365 days"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q49",
+        "number": 49,
+        "rawText": "49. You are traveling from Kolkata (88°E) to London (0°). If it is 12:00 noon in London, what will be the local time in Kolkata?\n(a) 5:30 PM\n(b) 6:00 PM\n(c) 5:52 PM\n(d) 6:08 PM",
+        "stem": "You are traveling from Kolkata (88°E) to London (0°). If it is 12:00 noon in London, what will be the local time in Kolkata?",
+        "options": [
+          {
+            "key": "a",
+            "text": "5:30 PM"
+          },
+          {
+            "key": "b",
+            "text": "6:00 PM"
+          },
+          {
+            "key": "c",
+            "text": "5:52 PM"
+          },
+          {
+            "key": "d",
+            "text": "6:08 PM"
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      },
+      {
+        "id": "q50",
+        "number": 50,
+        "rawText": "50. If the Earth's axis were perpendicular to its orbital plane (i.e., no tilt), which of the following would be the most likely consequence?\n(a) There would be no seasons.\n(b) The length of a day would change.\n(c) The Earth would stop rotating.\n(d) The poles would experience continuous daylight.",
+        "stem": "If the Earth's axis were perpendicular to its orbital plane (i.e., no tilt), which of the following would be the most likely consequence?",
+        "options": [
+          {
+            "key": "a",
+            "text": "There would be no seasons."
+          },
+          {
+            "key": "b",
+            "text": "The length of a day would change."
+          },
+          {
+            "key": "c",
+            "text": "The Earth would stop rotating."
+          },
+          {
+            "key": "d",
+            "text": "The poles would experience continuous daylight."
+          }
+        ],
+        "correctAnswer": null,
+        "explanation": null,
+        "marks": 1,
+        "negativeMarks": 0,
+        "parseWarnings": []
+      }
+    ],
+    "createdAt": 1791380987.263689
+  }
+}

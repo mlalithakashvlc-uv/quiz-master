@@ -1,0 +1,180 @@
+1. What is the remainder when \(7^{105}\) is divided by 5?
+(a) 1(b) 2(c) 3(d) 4
+
+2. What is the unit digit in the expression \(7^{95} - 3^{58}\)?
+(a) 0
+(a) 0
+(b) 4
+(c) 6
+(d) 7
+
+3. Consider the following statements:
+1. \(2^{32} + 1\) is completely divisible by a whole number.
+2. The same whole number completely divides \(2^{96} + 1\).
+Which of the above statements is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+
+4. Find the sum of the series: \(\frac{1}{1 \times 2} + \frac{1}{2 \times 3} + \frac{1}{3 \times 4} + \dots + \frac{1}{99 \times 100}\).
+(a) \(\frac{99}{100}\)
+(b) \(\frac{1}{100}\)
+(c) \(\frac{100}{99}\)
+(d) 1
+
+5. What is the value of \(\sqrt{6 + \sqrt{6 + \sqrt{6 + \dots}}}\)?
+(a) 2(b) 3(c) 6(d) 9
+
+6. If a number \(N = 2^3 \times 3^2 \times 5^1\), how many factors of N are even?
+(a) 12
+(b) 16
+(c) 18
+(d) 24
+
+7. A 3-digit number 4a3 is added to another 3-digit number 984 to give a 4-digit number 13b7, which is divisible by 11. Find the value of \((a + b)\).
+(a) 10
+(b) 11
+(c) 12
+(d) 15
+
+8. How many zeros are at the end of \(100!\)?
+(a) 20
+(b) 24
+(c) 25
+(d) 30
+
+9. What is the remainder when \(2^{31}\) is divided by 5?
+(a) 1(b) 2(c) 3(d) 4
+
+10. Consider the following statements regarding prime numbers:
+1. The difference between two consecutive prime numbers is always 2.
+2. If \(p > 3\) is a prime number, then \(p^2 - 1\) is always divisible by 24.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+
+11. What is the highest power of 3 contained in \(50!\)?
+(a) 16
+(b) 22
+(c) 24
+(d) 25
+
+12. A number when divided by 899 gives a remainder of 63. What will be the remainder when the same number is divided by 29?
+(a) 5
+(b) 10
+(c) 4
+(d) 2
+
+13. What is the value of \((0.\overline{3} + 0.\overline{6} + 0.\overline{7} + 0.\overline{8})\)?
+(a) \(2.\overline{5}\)
+(b) \(2\frac{1}{9}\)
+(c) \(2.\overline{6}\)
+(d) \(2\frac{5}{9}\)
+
+14. How many natural numbers between 100 and 300 are divisible by both 4 and 6?
+(a) 16
+(b) 17
+(c) 18
+(d) 20
+
+15. If the number 517*324 is completely divisible by 3, then the smallest digit in place of * will be:
+(a) 0
+(b) 1
+(c) 2
+(d) 3
+
+16. What is the unit digit of \(3^{65} \times 6^{59} \times 7^{71}\)?
+(a) 1
+(b) 2
+(c) 4
+(d) 6
+
+17. Find the value of \(\left(1 - \frac{1}{3}\right)\left(1 - \frac{1}{4}\right)\left(1 - \frac{1}{5}\right)\dots\left(1 - \frac{1}{n}\right)\).
+(a) \(\frac{1}{n}\)
+(b) \(\frac{2}{n}\)
+(c) \(\frac{2(n-1)}{n}\)
+(d) \(\frac{2}{n(n+1)}\)
+
+18. What is the number of prime factors in \(6^{10} \times 7^{17} \times 11^{27}\)?
+(a) 54
+(b) 64
+(c) 71
+(d) 81
+
+19. When \(n\) is divided by 4, the remainder is 3. What is the remainder when \(2n\) is divided by 4?
+(a) 1
+(b) 2
+(c) 3
+(d) 0
+
+20. Consider two natural numbers \(x\) and \(y\).
+1. If \(x+y\) is even, then \(x-y\) must be even.
+2. If \(x \times y\) is odd, then \(x+y\) must be even.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+
+21. What is the remainder when \(17^{200}\) is divided by 18?
+(a) 1(b) 2(c) 16(d) 17
+
+22. The sum of three consecutive odd numbers is 57. What is the middle number?
+(a) 17
+(b) 19
+(c) 21
+(d) 23
+
+23. Which one of the following numbers is prime?
+(a) 161
+(b) 221
+(c) 373
+(d) 437
+
+24. If \(x = \sqrt{3 + \sqrt{3 + \sqrt{3 + \dots}}}\), then between which two integers does \(x\) lie?
+(a) 1 and 2
+(b) 2 and 3
+(c) 3 and 4
+(d) 4 and 5
+
+25. What is the unit digit of \(1! + 2! + 3! + 4! + \dots + 100!\)?
+(a) 1
+(b) 3
+(c) 5
+(d) 7
+
+26. The HCF and LCM of two numbers are 12 and 336 respectively. If one of the numbers is 84, what is the other number?
+(a) 36
+(b) 48
+(c) 72
+(d) 96
+
+27. A fraction becomes \(\frac{4}{5}\) when 1 is added to both numerator and denominator. It becomes \(\frac{1}{2}\) when 5 is subtracted from both. Find the fraction.
+(a) \(\frac{7}{9}\)
+(b) \(\frac{5}{9}\)
+(c) \(\frac{9}{11}\)
+(d) \(\frac{11}{14}\)
+
+28. What is the remainder when \(9^{6} + 1\) is divided by 8?
+(a) 0
+(b) 1
+(c) 2
+(d) 3
+
+29. How many 3-digit numbers are divisible by 7?
+(a) 126
+(b) 128
+(c) 130
+(d) 132
+
+30. Consider the expression \(E = 10^n - 1\).
+1. \(E\) is divisible by 9 for all positive integers \(n\).
+2. \(E\) is divisible by 11 if \(n\) is an even positive integer.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2

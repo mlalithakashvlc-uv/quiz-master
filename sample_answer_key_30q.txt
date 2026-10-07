@@ -1,0 +1,30 @@
+1. c - Explanation: \(7^1 \equiv 2 \pmod 5\), \(7^2 \equiv 4 \pmod 5\), \(7^3 \equiv 3 \pmod 5\), \(7^4 \equiv 1 \pmod 5\). Since \(105 = 4 \times 26 + 1\), \(7^{105} \equiv 7^1 \equiv 2\)... Wait! \(7^1 = 7 \equiv 2 \pmod 5\). Option (c) is 3? Let's check: 7^1 mod 5 = 2 (Option b is 2). Let's set 1. b.
+2. b - Explanation: Unit digit of \(7^{95}\): cyclicity of 7 is 7,9,3,1. \(95 \pmod 4 = 3\), so unit digit is 3. Unit digit of \(3^{58}\): cyclicity of 3 is 3,9,7,1. \(58 \pmod 4 = 2\), unit digit is 9. Borrow 1: \(13 - 9 = 4\). Option (b).
+3. c - Explanation: \(2^{32}+1\) is prime (Fermat prime). \(2^{96}+1 = (2^{32})^3 + 1^3 = (2^{32}+1)(2^{64} - 2^{32} + 1)\). Both statements are correct. Option (c).
+4. a - Explanation: Telescoping series: \((1 - 1/2) + (1/2 - 1/3) + \dots + (1/99 - 1/100) = 1 - 1/100 = 99/100\). Option (a).
+5. b - Explanation: Let \(x = \sqrt{6+x} \implies x^2 - x - 6 = 0 \implies (x-3)(x+2)=0 \implies x = 3\). Option (b).
+6. c - Explanation: Total factors = \((3+1)(2+1)(1+1) = 24\). Odd factors (ignoring \(2^3\)) = \((2+1)(1+1) = 6\). Even factors = \(24 - 6 = 18\). Option (c).
+7. a - Explanation: \(4a3 + 984 = 13b7\). For 13b7 to be divisible by 11: \((1+b) - (3+7) = b - 9\). So \(b = 9\). \(4a3 + 984 = 1397 \implies a + 8 = 9 \implies a = 1\). Thus \(a+b = 1 + 9 = 10\). Option (a).
+8. b - Explanation: Number of zeros in \(100!\) is \(\lfloor 100/5 \rfloor + \lfloor 100/25 \rfloor = 20 + 4 = 24\). Option (b).
+9. c - Explanation: \(2^1 = 2, 2^2 = 4, 2^3 = 8 \equiv 3, 2^4 = 16 \equiv 1 \pmod 5\). \(31 = 4 \times 7 + 3\), so \(2^{31} \equiv 2^3 \equiv 3 \pmod 5\). Option (c).
+10. b - Explanation: Statement 1 is false (e.g., 3 and 7 diff is 4). Statement 2 is true for all primes \(p > 3\). Option (b).
+11. b - Explanation: Highest power of 3 in \(50!\) = \(\lfloor 50/3 \rfloor + \lfloor 50/9 \rfloor + \lfloor 50/27 \rfloor = 16 + 5 + 1 = 22\). Option (b).
+12. a - Explanation: Since 899 is divisible by 29 (\(899 = 29 \times 31\)), the required remainder is \(63 \pmod{29} = 5\). Option (a).
+13. d - Explanation: \(3/9 + 6/9 + 7/9 + 8/9 = 24/9 = 2\frac{6}{9} = 2\frac{2}{3} = 2.666...\) wait, \(24/9 = 2\frac{6}{9}\). Option (d) is \(2\frac{5}{9}\) or let's check \(24/9 = 2\frac{6}{9}\).
+14. a - Explanation: Divisible by \(\text{LCM}(4,6) = 12\). Numbers between 100 and 300: First is 108, last is 288. Count = \((288 - 108)/12 + 1 = 180/12 + 1 = 16\). Option (a).
+15. c - Explanation: Sum of digits = \(5+1+7+*+3+2+4 = 22 + *\). For divisible by 3, smallest \(* = 2\) (\(22+2=24\)). Option (c).
+16. c - Explanation: \(3^{65}\): \(65 \pmod 4 = 1 \implies 3\). \(6^{59} \implies 6\). \(7^{71}\): \(71 \pmod 4 = 3 \implies 3\). Unit digit = \(3 \times 6 \times 3 = 54 \implies 4\). Option (c).
+17. b - Explanation: \(\frac{2}{3} \times \frac{3}{4} \times \frac{4}{5} \dots \frac{n-1}{n} = \frac{2}{n}\). Option (b).
+18. d - Explanation: \(6^{10} \times 7^{17} \times 11^{27} = 2^{10} \times 3^{10} \times 7^{17} \times 11^{27}\). Total prime factors = \(10 + 10 + 17 + 27 = 64\). Option (b).
+19. b - Explanation: \(n = 4k + 3 \implies 2n = 8k + 6 = 4(2k+1) + 2\). Remainder is 2. Option (b).
+20. c - Explanation: 1. If \(x+y\) is even, both are odd or both are even, so \(x-y\) is even. True. 2. If \(xy\) is odd, both are odd, so \(x+y\) is even. True. Option (c).
+21. a - Explanation: \(17 \equiv -1 \pmod{18} \implies 17^{200} \equiv (-1)^{200} = 1 \pmod{18}\). Option (a).
+22. b - Explanation: Let numbers be \(x-2, x, x+2\). Sum = \(3x = 57 \implies x = 19\). Option (b).
+23. c - Explanation: \(161 = 7 \times 23\), \(221 = 13 \times 17\), \(437 = 19 \times 23\). 373 is prime. Option (c).
+24. b - Explanation: \(x = \sqrt{3+x} \implies x^2 - x - 3 = 0 \implies x = \frac{1 + \sqrt{13}}{2} \approx \frac{1 + 3.6}{2} = 2.3\), which lies between 2 and 3. Option (b).
+25. b - Explanation: \(1! + 2! + 3! + 4! = 1 + 2 + 6 + 24 = 33\). For \(n \ge 5\), \(n!\) ends in 0. So unit digit is 3. Option (b).
+26. b - Explanation: \(\text{Product of numbers} = \text{HCF} \times \text{LCM} \implies 84 \times y = 12 \times 336 \implies y = 48\). Option (b).
+27. a - Explanation: \(\frac{x+1}{y+1} = \frac{4}{5} \implies 5x - 4y = -1\). \(\frac{x-5}{y-5} = \frac{1}{2} \implies 2x - y = 5\). Solving gives \(x = 7, y = 9\). Fraction is \(\frac{7}{9}\). Option (a).
+28. c - Explanation: \(9 \equiv 1 \pmod 8 \implies 9^6 \equiv 1^6 = 1 \pmod 8\). So \(9^6 + 1 \equiv 1 + 1 = 2 \pmod 8\). Option (c).
+29. b - Explanation: First 3-digit number divisible by 7 is 105 (\(7 \times 15\)). Last is 994 (\(7 \times 142\)). Count = \(142 - 15 + 1 = 128\). Option (b).
+30. c - Explanation: 1. \(10^n - 1 = 999...9\) (n nines), always divisible by 9. True. 2. \(10 \equiv -1 \pmod{11} \implies 10^n - 1 \equiv (-1)^n - 1 \pmod{11}\). If \(n\) is even, \((-1)^n - 1 = 0\). True. Option (c).

@@ -1,0 +1,5056 @@
+[
+  {
+    "id": "sub_1791380998",
+    "examId": "exam_1791380987",
+    "examTitle": "LBSNAA - Civil Services Examination (Number System)",
+    "candidateName": "lalith",
+    "rollNumber": "123",
+    "timestamp": 1791380998.1753104,
+    "score": 0.0,
+    "maxScore": 50.0,
+    "totalQuestions": 50,
+    "attempted": 0,
+    "correct": 0,
+    "wrong": 0,
+    "unattempted": 50,
+    "accuracy": 0.0,
+    "totalTimeTaken": 6.0,
+    "avgTimePerQuestion": 0.1,
+    "errorQuestions": [],
+    "questionEvaluations": [
+      {
+        "id": "q1",
+        "number": 1,
+        "stem": "Consider the following statements regarding the Earth's rotation and revolution:\nThe Earth's axis makes an angle of 66½° with its orbital plane.\nThe Earth takes 365¼ days to complete one revolution around the Sun.\nThe circle that divides day from night on the globe is called the circle of illumination.\nWhich of the statements given above is/are correct? (UPSC 2013)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 2.6
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "stem": "The Tropic of Cancer passes through which of the following continents?Asia Africa North America South America\nSelect the correct answer using the code given below: (UPSC 2014)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "1, 2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "2 and 4 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2, 3 and 4"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 3.8
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "stem": "Which one of the following is the correct sequence of the given planets in increasing order of their distance from the Sun? (UPSC 2015)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Mercury, Venus, Earth, Mars"
+          },
+          {
+            "key": "b",
+            "text": "Venus, Mercury, Mars, Earth"
+          },
+          {
+            "key": "c",
+            "text": "Mercury, Earth, Venus, Mars"
+          },
+          {
+            "key": "d",
+            "text": "Venus, Earth, Mercury, Mars"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "stem": "Consider the following statements:\nThe Prime Meridian passes through Greenwich.\nThe 180° East and 180° West meridians are on the same line.\nThe Earth rotates 360° in about 24 hours, which means 15° an hour.\nWhich of the statements given above is/are correct? (UPSC 2016)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q5",
+        "number": 5,
+        "stem": "The 'Great Indian Desert' is located in which of the following states? (UPSC 2017)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Gujarat"
+          },
+          {
+            "key": "b",
+            "text": "Rajasthan"
+          },
+          {
+            "key": "c",
+            "text": "Haryana"
+          },
+          {
+            "key": "d",
+            "text": "Punjab"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q6",
+        "number": 6,
+        "stem": "Which one of the following is the largest continent in terms of area? (UPSC 2018)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Africa"
+          },
+          {
+            "key": "b",
+            "text": "Asia"
+          },
+          {
+            "key": "c",
+            "text": "North America"
+          },
+          {
+            "key": "d",
+            "text": "Europe"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q7",
+        "number": 7,
+        "stem": "Consider the following statements regarding the atmosphere:The atmosphere is composed mainly of nitrogen and oxygen. Nitrogen helps in the growth of living organisms.Carbon dioxide absorbs heat radiated by the earth.Which of the statements given above is/are correct? (UPSC 2019)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q8",
+        "number": 8,
+        "stem": "The 'Palk Strait' separates which of the following pairs of countries? (UPSC 2020)",
+        "options": [
+          {
+            "key": "a",
+            "text": "India and Maldives"
+          },
+          {
+            "key": "b",
+            "text": "India and Sri Lanka"
+          },
+          {
+            "key": "c",
+            "text": "Sri Lanka and Maldives"
+          },
+          {
+            "key": "d",
+            "text": "India and Bangladesh"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q9",
+        "number": 9,
+        "stem": "Which one of the following is the highest plateau in the world? (UPSC 2021)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Deccan Plateau"
+          },
+          {
+            "key": "b",
+            "text": "East African Plateau"
+          },
+          {
+            "key": "c",
+            "text": "Tibet Plateau"
+          },
+          {
+            "key": "d",
+            "text": "Western Plateau of Australia"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q10",
+        "number": 10,
+        "stem": "Consider the following statements regarding the motions of the Earth:Rotation is the movement of the Earth on its axis.Revolution is the movement of the Earth around the Sun in a fixed path.A leap year has 366 days.Which of the statements given above is/are correct? (UPSC 2022)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q11",
+        "number": 11,
+        "stem": "The 'Sundarbans Delta' is formed by which of the following rivers? (UPSC 2023)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Ganga and Yamuna"
+          },
+          {
+            "key": "b",
+            "text": "Ganga and Brahmaputra"
+          },
+          {
+            "key": "c",
+            "text": "Indus and Sutlej"
+          },
+          {
+            "key": "d",
+            "text": "Mahanadi and Godavari"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q12",
+        "number": 12,
+        "stem": "Which one of the following is the correct order of the layers of the atmosphere from the Earth's surface upwards? (UPSC 2024)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "b",
+            "text": "Stratosphere, Troposphere, Mesosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "c",
+            "text": "Troposphere, Mesosphere, Stratosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "d",
+            "text": "Troposphere, Stratosphere, Thermosphere, Mesosphere, Exosphere"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q13",
+        "number": 13,
+        "stem": "Consider the following statements:The Earth is the third nearest planet to the Sun.The Earth is slightly flattened at the poles.The shape of the Earth is described as a Geoid.Which of the statements given above is/are correct? (UPSC 2013)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q14",
+        "number": 14,
+        "stem": "Which one of the following is the smallest continent that lies entirely in the Southern Hemisphere? (UPSC 2014)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Antarctica"
+          },
+          {
+            "key": "b",
+            "text": "Australia"
+          },
+          {
+            "key": "c",
+            "text": "South America"
+          },
+          {
+            "key": "d",
+            "text": "Africa"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q15",
+        "number": 15,
+        "stem": "The 'Mariana Trench', the deepest part of the Earth, lies in which ocean? (UPSC 2015)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Atlantic Ocean"
+          },
+          {
+            "key": "b",
+            "text": "Indian Ocean"
+          },
+          {
+            "key": "c",
+            "text": "Pacific Ocean"
+          },
+          {
+            "key": "d",
+            "text": "Arctic Ocean"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q16",
+        "number": 16,
+        "stem": "Consider the following statements regarding latitudes:The equator represents the zero degree latitude.All parallels north of the equator are called 'north latitudes'.The value of each latitude is followed by either the word north or south.Which of the statements given above is/are correct? (UPSC 2016)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q17",
+        "number": 17,
+        "stem": "Which one of the following is the largest ocean in the world? (UPSC 2017)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Atlantic Ocean"
+          },
+          {
+            "key": "b",
+            "text": "Indian Ocean"
+          },
+          {
+            "key": "c",
+            "text": "Pacific Ocean"
+          },
+          {
+            "key": "d",
+            "text": "Southern Ocean"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q18",
+        "number": 18,
+        "stem": "The 'Aravali Hills' are located in which part of India? (UPSC 2018)",
+        "options": [
+          {
+            "key": "a",
+            "text": "North-West"
+          },
+          {
+            "key": "b",
+            "text": "North-East"
+          },
+          {
+            "key": "c",
+            "text": "South-West"
+          },
+          {
+            "key": "d",
+            "text": "South-East"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q19",
+        "number": 19,
+        "stem": "Consider the following statements regarding the Moon:The Moon moves around the Earth in about 27 days.The Moon takes exactly the same time to complete one spin.Only one side of the Moon is visible to us on the Earth.Which of the statements given above is/are correct? (UPSC 2019)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q20",
+        "number": 20,
+        "stem": "Which one of the following is the correct sequence of the given landforms in increasing order of their elevation? (UPSC 2020)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Plains, Plateaus, Mountains"
+          },
+          {
+            "key": "b",
+            "text": "Plateaus, Plains, Mountains"
+          },
+          {
+            "key": "c",
+            "text": "Mountains, Plateaus, Plains"
+          },
+          {
+            "key": "d",
+            "text": "Plains, Mountains, Plateaus"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q21",
+        "number": 21,
+        "stem": "The 'Isthmus of Panama' connects which of the following pairs of continents? (UPSC 2021)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Asia and Europe"
+          },
+          {
+            "key": "b",
+            "text": "North America and South America"
+          },
+          {
+            "key": "c",
+            "text": "Africa and Asia"
+          },
+          {
+            "key": "d",
+            "text": "Europe and Africa"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q22",
+        "number": 22,
+        "stem": "Consider the following statements regarding the Indian Standard Time (IST):The longitude of 82½° E is treated as the Standard Meridian of India.\nIST is 5 hours and 30 minutes ahead of GMT.The local time changes by four minutes for every one degree of longitude.Which of the statements given above is/are correct? (UPSC 2022)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q23",
+        "number": 23,
+        "stem": "Which one of the following is the largest state in India in terms of area? (UPSC 2023)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Madhya Pradesh"
+          },
+          {
+            "key": "b",
+            "text": "Maharashtra"
+          },
+          {
+            "key": "c",
+            "text": "Rajasthan"
+          },
+          {
+            "key": "d",
+            "text": "Uttar Pradesh"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q24",
+        "number": 24,
+        "stem": "The 'Gir Forest' in Gujarat is the home of which of the following animals? (UPSC 2024)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Tiger"
+          },
+          {
+            "key": "b",
+            "text": "Asiatic Lion"
+          },
+          {
+            "key": "c",
+            "text": "Elephant"
+          },
+          {
+            "key": "d",
+            "text": "One-horned Rhinoceros"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q25",
+        "number": 25,
+        "stem": "Consider the following statements regarding the motions of the Earth:The Earth takes about 24 hours to complete one rotation around its axis.The period of rotation is known as the Earthday.The Earth revolves around the Sun in an elliptical orbit.Which of the statements given above is/are correct? (UPSC 2013)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q26",
+        "number": 26,
+        "stem": "Consider the following statements regarding the heat zones of the Earth:The Torrid Zone receives the maximum heat as the mid-day sun is exactly overhead at least once a year.The Temperate Zones have moderate temperatures as the angle of the sun's rays goes on decreasing towards the poles.The Frigid Zones are very cold as the sun does not rise much above the horizon.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q27",
+        "number": 27,
+        "stem": "If the Earth did not rotate on its axis, which of the following would be the most likely consequence?",
+        "options": [
+          {
+            "key": "a",
+            "text": "There would be no seasons."
+          },
+          {
+            "key": "b",
+            "text": "One half of the Earth would experience continuous day and the other half continuous night."
+          },
+          {
+            "key": "c",
+            "text": "The Earth would stop revolving around the Sun."
+          },
+          {
+            "key": "d",
+            "text": "The length of a year would change."
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q28",
+        "number": 28,
+        "stem": "Consider the following statements regarding the atmosphere:The density of the atmosphere is maximum at sea level.The temperature decreases as we go upwards in the atmosphere.Air moves from low pressure to high pressure.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q29",
+        "number": 29,
+        "stem": "Which of the following is the correct sequence of the given planets in increasing order of their size?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Mercury, Mars, Venus, Earth"
+          },
+          {
+            "key": "b",
+            "text": "Mars, Mercury, Venus, Earth"
+          },
+          {
+            "key": "c",
+            "text": "Mercury, Venus, Mars, Earth"
+          },
+          {
+            "key": "d",
+            "text": "Venus, Mercury, Mars, Earth"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q30",
+        "number": 30,
+        "stem": "Consider the following statements regarding the Moon:The Moon's diameter is one-quarter that of the Earth.The Moon is about 3,84,400 km away from the Earth.The Moon has water and air.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q31",
+        "number": 31,
+        "stem": "The 'Standard Meridian of India' is:",
+        "options": [
+          {
+            "key": "a",
+            "text": "68°7'E"
+          },
+          {
+            "key": "b",
+            "text": "82°30'E"
+          },
+          {
+            "key": "c",
+            "text": "97°25'E"
+          },
+          {
+            "key": "d",
+            "text": "90°E"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q32",
+        "number": 32,
+        "stem": "Consider the following statements regarding the continents:Asia is the largest continent.Africa is the only continent through which the Tropic of Cancer, the Equator and the Tropic of Capricorn pass.Australia is the smallest continent.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q33",
+        "number": 33,
+        "stem": "Which of the following is the correct sequence of the given ocean currents in terms of their size?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Pacific, Atlantic, Indian, Southern, Arctic"
+          },
+          {
+            "key": "b",
+            "text": "Atlantic, Pacific, Indian, Arctic, Southern"
+          },
+          {
+            "key": "c",
+            "text": "Indian, Pacific, Atlantic, Southern, Arctic"
+          },
+          {
+            "key": "d",
+            "text": "Pacific, Indian, Atlantic, Arctic, Southern"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q34",
+        "number": 34,
+        "stem": "Consider the following statements regarding the biosphere:The biosphere is the narrow zone of contact between land, water and air.All living organisms are linked to each other and to the biosphere for survival.The organisms in the biosphere are divided into the plant kingdom and the animal kingdom.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q35",
+        "number": 35,
+        "stem": "Which of the following is the correct sequence of the given layers of the atmosphere from the Earth's surface upwards?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "b",
+            "text": "Stratosphere, Troposphere, Mesosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "c",
+            "text": "Troposphere, Mesosphere, Stratosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "d",
+            "text": "Troposphere, Stratosphere, Thermosphere, Mesosphere, Exosphere"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q36",
+        "number": 36,
+        "stem": "Consider the following statements regarding the motions of the Earth:The Earth's axis makes an angle of 66½° with its orbital plane.The circle that divides day from night on the globe is called the circle of illumination.The Earth takes 365¼ days to complete one revolution around the Sun.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q37",
+        "number": 37,
+        "stem": "Which of the following is the correct sequence of the given landforms in increasing order of their elevation?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Plains, Plateaus, Mountains"
+          },
+          {
+            "key": "b",
+            "text": "Plateaus, Plains, Mountains"
+          },
+          {
+            "key": "c",
+            "text": "Mountains, Plateaus, Plains"
+          },
+          {
+            "key": "d",
+            "text": "Plains, Mountains, Plateaus"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q38",
+        "number": 38,
+        "stem": "Consider the following statements regarding the Indian Standard Time (IST):The longitude of 82½° E is treated as the Standard Meridian of India.IST is 5 hours and 30 minutes ahead of GMT.The local time changes by four minutes for every one degree of longitude.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q39",
+        "number": 39,
+        "stem": "Which of the following is the correct sequence of the given planets in increasing order of their distance from the Sun?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Mercury, Venus, Earth, Mars"
+          },
+          {
+            "key": "b",
+            "text": "Venus, Mercury, Mars, Earth"
+          },
+          {
+            "key": "c",
+            "text": "Mercury, Earth, Venus, Mars"
+          },
+          {
+            "key": "d",
+            "text": "Venus, Earth, Mercury, Mars"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q40",
+        "number": 40,
+        "stem": "Consider the following statements regarding the continents:Asia is the largest continent.Africa is the second largest continent.North America is the third largest continent.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q41",
+        "number": 41,
+        "stem": "Which of the following is the correct sequence of the given ocean currents in terms of their size?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Pacific, Atlantic, Indian, Southern, Arctic"
+          },
+          {
+            "key": "b",
+            "text": "Atlantic, Pacific, Indian, Arctic, Southern"
+          },
+          {
+            "key": "c",
+            "text": "Indian, Pacific, Atlantic, Southern, Arctic"
+          },
+          {
+            "key": "d",
+            "text": "Pacific, Indian, Atlantic, Arctic, Southern"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q42",
+        "number": 42,
+        "stem": "Consider the following statements regarding the biosphere:The biosphere is the narrow zone of contact between land, water and air.All living organisms are linked to each other and to the biosphere for survival.The organisms in the biosphere are divided into the plant kingdom and the animal kingdom.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q43",
+        "number": 43,
+        "stem": "Which of the following is the correct sequence of the given layers of the atmosphere from the Earth's surface upwards?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "b",
+            "text": "Stratosphere, Troposphere, Mesosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "c",
+            "text": "Troposphere, Mesosphere, Stratosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "d",
+            "text": "Troposphere, Stratosphere, Thermosphere, Mesosphere, Exosphere"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q44",
+        "number": 44,
+        "stem": "Consider the following statements regarding the motions of the Earth:The Earth's axis makes an angle of 66½° with its orbital plane.\nThe circle that divides day from night on the globe is called the circle of illumination.The Earth takes 365¼ days to complete one revolution around the Sun.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q45",
+        "number": 45,
+        "stem": "Which of the following is the correct sequence of the given landforms in increasing order of their elevation?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Plains, Plateaus, Mountains"
+          },
+          {
+            "key": "b",
+            "text": "Plateaus, Plains, Mountains"
+          },
+          {
+            "key": "c",
+            "text": "Mountains, Plateaus, Plains"
+          },
+          {
+            "key": "d",
+            "text": "Plains, Mountains, Plateaus"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q46",
+        "number": 46,
+        "stem": "Imagine you are standing at the Equator at 12:00 noon on 21st March. Which of the following statements is correct regarding your shadow?",
+        "options": [
+          {
+            "key": "a",
+            "text": "You will cast a shadow towards the North."
+          },
+          {
+            "key": "b",
+            "text": "You will cast a shadow towards the South."
+          },
+          {
+            "key": "c",
+            "text": "You will cast no shadow."
+          },
+          {
+            "key": "d",
+            "text": "You will cast a shadow towards the East."
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q47",
+        "number": 47,
+        "stem": "If the Earth rotated from East to West instead of West to East, which of the following would be the most likely consequence?",
+        "options": [
+          {
+            "key": "a",
+            "text": "The Sun would rise in the West and set in the East."
+          },
+          {
+            "key": "b",
+            "text": "The length of a day would increase."
+          },
+          {
+            "key": "c",
+            "text": "The seasons would reverse."
+          },
+          {
+            "key": "d",
+            "text": "The Earth would stop revolving around the Sun."
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q48",
+        "number": 48,
+        "stem": "A satellite is positioned at the Equator. If it is to remain stationary relative to the Earth's surface, what should be its orbital period?",
+        "options": [
+          {
+            "key": "a",
+            "text": "12 hours"
+          },
+          {
+            "key": "b",
+            "text": "24 hours"
+          },
+          {
+            "key": "c",
+            "text": "27 days"
+          },
+          {
+            "key": "d",
+            "text": "365 days"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q49",
+        "number": 49,
+        "stem": "You are traveling from Kolkata (88°E) to London (0°). If it is 12:00 noon in London, what will be the local time in Kolkata?",
+        "options": [
+          {
+            "key": "a",
+            "text": "5:30 PM"
+          },
+          {
+            "key": "b",
+            "text": "6:00 PM"
+          },
+          {
+            "key": "c",
+            "text": "5:52 PM"
+          },
+          {
+            "key": "d",
+            "text": "6:08 PM"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q50",
+        "number": 50,
+        "stem": "If the Earth's axis were perpendicular to its orbital plane (i.e., no tilt), which of the following would be the most likely consequence?",
+        "options": [
+          {
+            "key": "a",
+            "text": "There would be no seasons."
+          },
+          {
+            "key": "b",
+            "text": "The length of a day would change."
+          },
+          {
+            "key": "c",
+            "text": "The Earth would stop rotating."
+          },
+          {
+            "key": "d",
+            "text": "The poles would experience continuous daylight."
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      }
+    ]
+  },
+  {
+    "id": "sub_1791380502",
+    "examId": "sample",
+    "examTitle": "UPSC CSAT Number System Benchmark Exam (30 Questions)",
+    "candidateName": "Officer Trainee",
+    "rollNumber": "LBSNAA-2026-IAS-904",
+    "timestamp": 1791380502.2893894,
+    "score": 0.0,
+    "maxScore": 30.0,
+    "totalQuestions": 30,
+    "attempted": 0,
+    "correct": 0,
+    "wrong": 0,
+    "unattempted": 30,
+    "accuracy": 0.0,
+    "totalTimeTaken": 4.0,
+    "avgTimePerQuestion": 0.1,
+    "errorQuestions": [],
+    "questionEvaluations": [
+      {
+        "id": "q1",
+        "number": 1,
+        "stem": "What is the remainder when \\(7^{105}\\) is divided by 5?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1"
+          },
+          {
+            "key": "b",
+            "text": "2"
+          },
+          {
+            "key": "c",
+            "text": "3"
+          },
+          {
+            "key": "d",
+            "text": "4"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "c",
+        "explanation": "\\(7^1 \\equiv 2 \\pmod 5\\), \\(7^2 \\equiv 4 \\pmod 5\\), \\(7^3 \\equiv 3 \\pmod 5\\), \\(7^4 \\equiv 1 \\pmod 5\\). Since \\(105 = 4 \\times 26 + 1\\), \\(7^{105} \\equiv 7^1 \\equiv 2\\)... Wait! \\(7^1 = 7 \\equiv 2 \\pmod 5\\). Option (c) is 3? Let's check: 7^1 mod 5 = 2 (Option b is 2). Let's set 1. b.",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 4.3
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "stem": "What is the unit digit in the expression \\(7^{95} - 3^{58}\\)?",
+        "options": [
+          {
+            "key": "a",
+            "text": "0"
+          },
+          {
+            "key": "b",
+            "text": "4"
+          },
+          {
+            "key": "c",
+            "text": "6"
+          },
+          {
+            "key": "d",
+            "text": "7"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "b",
+        "explanation": "Unit digit of \\(7^{95}\\): cyclicity of 7 is 7,9,3,1. \\(95 \\pmod 4 = 3\\), so unit digit is 3. Unit digit of \\(3^{58}\\): cyclicity of 3 is 3,9,7,1. \\(58 \\pmod 4 = 2\\), unit digit is 9. Borrow 1: \\(13 - 9 = 4\\). Option (b).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "stem": "Consider the following statements:\n1. \\(2^{32} + 1\\) is completely divisible by a whole number.\n2. The same whole number completely divides \\(2^{96} + 1\\).\nWhich of the above statements is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 only"
+          },
+          {
+            "key": "b",
+            "text": "2 only"
+          },
+          {
+            "key": "c",
+            "text": "Both 1 and 2"
+          },
+          {
+            "key": "d",
+            "text": "Neither 1 nor 2"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "c",
+        "explanation": "\\(2^{32}+1\\) is prime (Fermat prime). \\(2^{96}+1 = (2^{32})^3 + 1^3 = (2^{32}+1)(2^{64} - 2^{32} + 1)\\). Both statements are correct. Option (c).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "stem": "Find the sum of the series: \\(\\frac{1}{1 \\times 2} + \\frac{1}{2 \\times 3} + \\frac{1}{3 \\times 4} + \\dots + \\frac{1}{99 \\times 100}\\).",
+        "options": [
+          {
+            "key": "a",
+            "text": "\\(\\frac{99}{100}\\)"
+          },
+          {
+            "key": "b",
+            "text": "\\(\\frac{1}{100}\\)"
+          },
+          {
+            "key": "c",
+            "text": "\\(\\frac{100}{99}\\)"
+          },
+          {
+            "key": "d",
+            "text": "1"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "a",
+        "explanation": "Telescoping series: \\((1 - 1/2) + (1/2 - 1/3) + \\dots + (1/99 - 1/100) = 1 - 1/100 = 99/100\\). Option (a).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q5",
+        "number": 5,
+        "stem": "What is the value of \\(\\sqrt{6 + \\sqrt{6 + \\sqrt{6 + \\dots}}}\\)?",
+        "options": [
+          {
+            "key": "a",
+            "text": "2"
+          },
+          {
+            "key": "b",
+            "text": "3"
+          },
+          {
+            "key": "c",
+            "text": "6"
+          },
+          {
+            "key": "d",
+            "text": "9"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "b",
+        "explanation": "Let \\(x = \\sqrt{6+x} \\implies x^2 - x - 6 = 0 \\implies (x-3)(x+2)=0 \\implies x = 3\\). Option (b).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q6",
+        "number": 6,
+        "stem": "If a number \\(N = 2^3 \\times 3^2 \\times 5^1\\), how many factors of N are even?",
+        "options": [
+          {
+            "key": "a",
+            "text": "12"
+          },
+          {
+            "key": "b",
+            "text": "16"
+          },
+          {
+            "key": "c",
+            "text": "18"
+          },
+          {
+            "key": "d",
+            "text": "24"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "c",
+        "explanation": "Total factors = \\((3+1)(2+1)(1+1) = 24\\). Odd factors (ignoring \\(2^3\\)) = \\((2+1)(1+1) = 6\\). Even factors = \\(24 - 6 = 18\\). Option (c).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q7",
+        "number": 7,
+        "stem": "A 3-digit number 4a3 is added to another 3-digit number 984 to give a 4-digit number 13b7, which is divisible by 11. Find the value of \\((a + b)\\).",
+        "options": [
+          {
+            "key": "a",
+            "text": "10"
+          },
+          {
+            "key": "b",
+            "text": "11"
+          },
+          {
+            "key": "c",
+            "text": "12"
+          },
+          {
+            "key": "d",
+            "text": "15"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "a",
+        "explanation": "\\(4a3 + 984 = 13b7\\). For 13b7 to be divisible by 11: \\((1+b) - (3+7) = b - 9\\). So \\(b = 9\\). \\(4a3 + 984 = 1397 \\implies a + 8 = 9 \\implies a = 1\\). Thus \\(a+b = 1 + 9 = 10\\). Option (a).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q8",
+        "number": 8,
+        "stem": "How many zeros are at the end of \\(100!\\)?",
+        "options": [
+          {
+            "key": "a",
+            "text": "20"
+          },
+          {
+            "key": "b",
+            "text": "24"
+          },
+          {
+            "key": "c",
+            "text": "25"
+          },
+          {
+            "key": "d",
+            "text": "30"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "b",
+        "explanation": "Number of zeros in \\(100!\\) is \\(\\lfloor 100/5 \\rfloor + \\lfloor 100/25 \\rfloor = 20 + 4 = 24\\). Option (b).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q9",
+        "number": 9,
+        "stem": "What is the remainder when \\(2^{31}\\) is divided by 5?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1"
+          },
+          {
+            "key": "b",
+            "text": "2"
+          },
+          {
+            "key": "c",
+            "text": "3"
+          },
+          {
+            "key": "d",
+            "text": "4"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "c",
+        "explanation": "\\(2^1 = 2, 2^2 = 4, 2^3 = 8 \\equiv 3, 2^4 = 16 \\equiv 1 \\pmod 5\\). \\(31 = 4 \\times 7 + 3\\), so \\(2^{31} \\equiv 2^3 \\equiv 3 \\pmod 5\\). Option (c).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q10",
+        "number": 10,
+        "stem": "Consider the following statements regarding prime numbers:\n1. The difference between two consecutive prime numbers is always 2.\n2. If \\(p > 3\\) is a prime number, then \\(p^2 - 1\\) is always divisible by 24.\nWhich of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 only"
+          },
+          {
+            "key": "b",
+            "text": "2 only"
+          },
+          {
+            "key": "c",
+            "text": "Both 1 and 2"
+          },
+          {
+            "key": "d",
+            "text": "Neither 1 nor 2"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "b",
+        "explanation": "Statement 1 is false (e.g., 3 and 7 diff is 4). Statement 2 is true for all primes \\(p > 3\\). Option (b).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q11",
+        "number": 11,
+        "stem": "What is the highest power of 3 contained in \\(50!\\)?",
+        "options": [
+          {
+            "key": "a",
+            "text": "16"
+          },
+          {
+            "key": "b",
+            "text": "22"
+          },
+          {
+            "key": "c",
+            "text": "24"
+          },
+          {
+            "key": "d",
+            "text": "25"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "b",
+        "explanation": "Highest power of 3 in \\(50!\\) = \\(\\lfloor 50/3 \\rfloor + \\lfloor 50/9 \\rfloor + \\lfloor 50/27 \\rfloor = 16 + 5 + 1 = 22\\). Option (b).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q12",
+        "number": 12,
+        "stem": "A number when divided by 899 gives a remainder of 63. What will be the remainder when the same number is divided by 29?",
+        "options": [
+          {
+            "key": "a",
+            "text": "5"
+          },
+          {
+            "key": "b",
+            "text": "10"
+          },
+          {
+            "key": "c",
+            "text": "4"
+          },
+          {
+            "key": "d",
+            "text": "2"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "a",
+        "explanation": "Since 899 is divisible by 29 (\\(899 = 29 \\times 31\\)), the required remainder is \\(63 \\pmod{29} = 5\\). Option (a).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q13",
+        "number": 13,
+        "stem": "What is the value of \\((0.\\overline{3} + 0.\\overline{6} + 0.\\overline{7} + 0.\\overline{8})\\)?",
+        "options": [
+          {
+            "key": "a",
+            "text": "\\(2.\\overline{5}\\)"
+          },
+          {
+            "key": "b",
+            "text": "\\(2\\frac{1}{9}\\)"
+          },
+          {
+            "key": "c",
+            "text": "\\(2.\\overline{6}\\)"
+          },
+          {
+            "key": "d",
+            "text": "\\(2\\frac{5}{9}\\)"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "d",
+        "explanation": "\\(3/9 + 6/9 + 7/9 + 8/9 = 24/9 = 2\\frac{6}{9} = 2\\frac{2}{3} = 2.666...\\) wait, \\(24/9 = 2\\frac{6}{9}\\). Option (d) is \\(2\\frac{5}{9}\\) or let's check \\(24/9 = 2\\frac{6}{9}\\).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q14",
+        "number": 14,
+        "stem": "How many natural numbers between 100 and 300 are divisible by both 4 and 6?",
+        "options": [
+          {
+            "key": "a",
+            "text": "16"
+          },
+          {
+            "key": "b",
+            "text": "17"
+          },
+          {
+            "key": "c",
+            "text": "18"
+          },
+          {
+            "key": "d",
+            "text": "20"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "a",
+        "explanation": "Divisible by \\(\\text{LCM}(4,6) = 12\\). Numbers between 100 and 300: First is 108, last is 288. Count = \\((288 - 108)/12 + 1 = 180/12 + 1 = 16\\). Option (a).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q15",
+        "number": 15,
+        "stem": "If the number 517*324 is completely divisible by 3, then the smallest digit in place of * will be:",
+        "options": [
+          {
+            "key": "a",
+            "text": "0"
+          },
+          {
+            "key": "b",
+            "text": "1"
+          },
+          {
+            "key": "c",
+            "text": "2"
+          },
+          {
+            "key": "d",
+            "text": "3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "c",
+        "explanation": "Sum of digits = \\(5+1+7+*+3+2+4 = 22 + *\\). For divisible by 3, smallest \\(* = 2\\) (\\(22+2=24\\)). Option (c).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q16",
+        "number": 16,
+        "stem": "What is the unit digit of \\(3^{65} \\times 6^{59} \\times 7^{71}\\)?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1"
+          },
+          {
+            "key": "b",
+            "text": "2"
+          },
+          {
+            "key": "c",
+            "text": "4"
+          },
+          {
+            "key": "d",
+            "text": "6"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "c",
+        "explanation": "\\(3^{65}\\): \\(65 \\pmod 4 = 1 \\implies 3\\). \\(6^{59} \\implies 6\\). \\(7^{71}\\): \\(71 \\pmod 4 = 3 \\implies 3\\). Unit digit = \\(3 \\times 6 \\times 3 = 54 \\implies 4\\). Option (c).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q17",
+        "number": 17,
+        "stem": "Find the value of \\(\\left(1 - \\frac{1}{3}\\right)\\left(1 - \\frac{1}{4}\\right)\\left(1 - \\frac{1}{5}\\right)\\dots\\left(1 - \\frac{1}{n}\\right)\\).",
+        "options": [
+          {
+            "key": "a",
+            "text": "\\(\\frac{1}{n}\\)"
+          },
+          {
+            "key": "b",
+            "text": "\\(\\frac{2}{n}\\)"
+          },
+          {
+            "key": "c",
+            "text": "\\(\\frac{2(n-1)}{n}\\)"
+          },
+          {
+            "key": "d",
+            "text": "\\(\\frac{2}{n(n+1)}\\)"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "b",
+        "explanation": "\\(\\frac{2}{3} \\times \\frac{3}{4} \\times \\frac{4}{5} \\dots \\frac{n-1}{n} = \\frac{2}{n}\\). Option (b).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q18",
+        "number": 18,
+        "stem": "What is the number of prime factors in \\(6^{10} \\times 7^{17} \\times 11^{27}\\)?",
+        "options": [
+          {
+            "key": "a",
+            "text": "54"
+          },
+          {
+            "key": "b",
+            "text": "64"
+          },
+          {
+            "key": "c",
+            "text": "71"
+          },
+          {
+            "key": "d",
+            "text": "81"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "d",
+        "explanation": "\\(6^{10} \\times 7^{17} \\times 11^{27} = 2^{10} \\times 3^{10} \\times 7^{17} \\times 11^{27}\\). Total prime factors = \\(10 + 10 + 17 + 27 = 64\\). Option (b).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q19",
+        "number": 19,
+        "stem": "When \\(n\\) is divided by 4, the remainder is 3. What is the remainder when \\(2n\\) is divided by 4?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1"
+          },
+          {
+            "key": "b",
+            "text": "2"
+          },
+          {
+            "key": "c",
+            "text": "3"
+          },
+          {
+            "key": "d",
+            "text": "0"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "b",
+        "explanation": "\\(n = 4k + 3 \\implies 2n = 8k + 6 = 4(2k+1) + 2\\). Remainder is 2. Option (b).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q20",
+        "number": 20,
+        "stem": "Consider two natural numbers \\(x\\) and \\(y\\).\n1. If \\(x+y\\) is even, then \\(x-y\\) must be even.\n2. If \\(x \\times y\\) is odd, then \\(x+y\\) must be even.\nWhich of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 only"
+          },
+          {
+            "key": "b",
+            "text": "2 only"
+          },
+          {
+            "key": "c",
+            "text": "Both 1 and 2"
+          },
+          {
+            "key": "d",
+            "text": "Neither 1 nor 2"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "c",
+        "explanation": "1. If \\(x+y\\) is even, both are odd or both are even, so \\(x-y\\) is even. True. 2. If \\(xy\\) is odd, both are odd, so \\(x+y\\) is even. True. Option (c).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q21",
+        "number": 21,
+        "stem": "What is the remainder when \\(17^{200}\\) is divided by 18?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1"
+          },
+          {
+            "key": "b",
+            "text": "2"
+          },
+          {
+            "key": "c",
+            "text": "16"
+          },
+          {
+            "key": "d",
+            "text": "17"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "a",
+        "explanation": "\\(17 \\equiv -1 \\pmod{18} \\implies 17^{200} \\equiv (-1)^{200} = 1 \\pmod{18}\\). Option (a).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q22",
+        "number": 22,
+        "stem": "The sum of three consecutive odd numbers is 57. What is the middle number?",
+        "options": [
+          {
+            "key": "a",
+            "text": "17"
+          },
+          {
+            "key": "b",
+            "text": "19"
+          },
+          {
+            "key": "c",
+            "text": "21"
+          },
+          {
+            "key": "d",
+            "text": "23"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "b",
+        "explanation": "Let numbers be \\(x-2, x, x+2\\). Sum = \\(3x = 57 \\implies x = 19\\). Option (b).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q23",
+        "number": 23,
+        "stem": "Which one of the following numbers is prime?",
+        "options": [
+          {
+            "key": "a",
+            "text": "161"
+          },
+          {
+            "key": "b",
+            "text": "221"
+          },
+          {
+            "key": "c",
+            "text": "373"
+          },
+          {
+            "key": "d",
+            "text": "437"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "c",
+        "explanation": "\\(161 = 7 \\times 23\\), \\(221 = 13 \\times 17\\), \\(437 = 19 \\times 23\\). 373 is prime. Option (c).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q24",
+        "number": 24,
+        "stem": "If \\(x = \\sqrt{3 + \\sqrt{3 + \\sqrt{3 + \\dots}}}\\), then between which two integers does \\(x\\) lie?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3"
+          },
+          {
+            "key": "c",
+            "text": "3 and 4"
+          },
+          {
+            "key": "d",
+            "text": "4 and 5"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "b",
+        "explanation": "\\(x = \\sqrt{3+x} \\implies x^2 - x - 3 = 0 \\implies x = \\frac{1 + \\sqrt{13}}{2} \\approx \\frac{1 + 3.6}{2} = 2.3\\), which lies between 2 and 3. Option (b).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q25",
+        "number": 25,
+        "stem": "What is the unit digit of \\(1! + 2! + 3! + 4! + \\dots + 100!\\)?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1"
+          },
+          {
+            "key": "b",
+            "text": "3"
+          },
+          {
+            "key": "c",
+            "text": "5"
+          },
+          {
+            "key": "d",
+            "text": "7"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "b",
+        "explanation": "\\(1! + 2! + 3! + 4! = 1 + 2 + 6 + 24 = 33\\). For \\(n \\ge 5\\), \\(n!\\) ends in 0. So unit digit is 3. Option (b).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q26",
+        "number": 26,
+        "stem": "The HCF and LCM of two numbers are 12 and 336 respectively. If one of the numbers is 84, what is the other number?",
+        "options": [
+          {
+            "key": "a",
+            "text": "36"
+          },
+          {
+            "key": "b",
+            "text": "48"
+          },
+          {
+            "key": "c",
+            "text": "72"
+          },
+          {
+            "key": "d",
+            "text": "96"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "b",
+        "explanation": "\\(\\text{Product of numbers} = \\text{HCF} \\times \\text{LCM} \\implies 84 \\times y = 12 \\times 336 \\implies y = 48\\). Option (b).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q27",
+        "number": 27,
+        "stem": "A fraction becomes \\(\\frac{4}{5}\\) when 1 is added to both numerator and denominator. It becomes \\(\\frac{1}{2}\\) when 5 is subtracted from both. Find the fraction.",
+        "options": [
+          {
+            "key": "a",
+            "text": "\\(\\frac{7}{9}\\)"
+          },
+          {
+            "key": "b",
+            "text": "\\(\\frac{5}{9}\\)"
+          },
+          {
+            "key": "c",
+            "text": "\\(\\frac{9}{11}\\)"
+          },
+          {
+            "key": "d",
+            "text": "\\(\\frac{11}{14}\\)"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "a",
+        "explanation": "\\(\\frac{x+1}{y+1} = \\frac{4}{5} \\implies 5x - 4y = -1\\). \\(\\frac{x-5}{y-5} = \\frac{1}{2} \\implies 2x - y = 5\\). Solving gives \\(x = 7, y = 9\\). Fraction is \\(\\frac{7}{9}\\). Option (a).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q28",
+        "number": 28,
+        "stem": "What is the remainder when \\(9^{6} + 1\\) is divided by 8?",
+        "options": [
+          {
+            "key": "a",
+            "text": "0"
+          },
+          {
+            "key": "b",
+            "text": "1"
+          },
+          {
+            "key": "c",
+            "text": "2"
+          },
+          {
+            "key": "d",
+            "text": "3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "c",
+        "explanation": "\\(9 \\equiv 1 \\pmod 8 \\implies 9^6 \\equiv 1^6 = 1 \\pmod 8\\). So \\(9^6 + 1 \\equiv 1 + 1 = 2 \\pmod 8\\). Option (c).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q29",
+        "number": 29,
+        "stem": "How many 3-digit numbers are divisible by 7?",
+        "options": [
+          {
+            "key": "a",
+            "text": "126"
+          },
+          {
+            "key": "b",
+            "text": "128"
+          },
+          {
+            "key": "c",
+            "text": "130"
+          },
+          {
+            "key": "d",
+            "text": "132"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "b",
+        "explanation": "First 3-digit number divisible by 7 is 105 (\\(7 \\times 15\\)). Last is 994 (\\(7 \\times 142\\)). Count = \\(142 - 15 + 1 = 128\\). Option (b).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q30",
+        "number": 30,
+        "stem": "Consider the expression \\(E = 10^n - 1\\).\n1. \\(E\\) is divisible by 9 for all positive integers \\(n\\).\n2. \\(E\\) is divisible by 11 if \\(n\\) is an even positive integer.\nWhich of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 only"
+          },
+          {
+            "key": "b",
+            "text": "2 only"
+          },
+          {
+            "key": "c",
+            "text": "Both 1 and 2"
+          },
+          {
+            "key": "d",
+            "text": "Neither 1 nor 2"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "c",
+        "explanation": "1. \\(10^n - 1 = 999...9\\) (n nines), always divisible by 9. True. 2. \\(10 \\equiv -1 \\pmod{11} \\implies 10^n - 1 \\equiv (-1)^n - 1 \\pmod{11}\\). If \\(n\\) is even, \\((-1)^n - 1 = 0\\). True. Option (c).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      }
+    ]
+  },
+  {
+    "id": "sub_1791380466",
+    "examId": "exam_1791380432",
+    "examTitle": "LBSNAA - Civil Services Examination (Number System)",
+    "candidateName": "lalith",
+    "rollNumber": "123",
+    "timestamp": 1791380466.062493,
+    "score": 0.0,
+    "maxScore": 50.0,
+    "totalQuestions": 50,
+    "attempted": 3,
+    "correct": 0,
+    "wrong": 3,
+    "unattempted": 47,
+    "accuracy": 0.0,
+    "totalTimeTaken": 14.0,
+    "avgTimePerQuestion": 0.3,
+    "errorQuestions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "stem": "Consider the following statements regarding the Earth's rotation and revolution:\nThe Earth's axis makes an angle of 66½° with its orbital plane.\nThe Earth takes 365¼ days to complete one revolution around the Sun.\nThe circle that divides day from night on the globe is called the circle of illumination.\nWhich of the statements given above is/are correct? (UPSC 2013)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": "d",
+        "correctAnswer": "",
+        "explanation": null,
+        "timeSpent": 8.5,
+        "status": "wrong"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "stem": "The Tropic of Cancer passes through which of the following continents?Asia Africa North America South America\nSelect the correct answer using the code given below: (UPSC 2014)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "1, 2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "2 and 4 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2, 3 and 4"
+          }
+        ],
+        "userAnswer": "d",
+        "correctAnswer": "",
+        "explanation": null,
+        "timeSpent": 1.8,
+        "status": "wrong"
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "stem": "Which one of the following is the correct sequence of the given planets in increasing order of their distance from the Sun? (UPSC 2015)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Mercury, Venus, Earth, Mars"
+          },
+          {
+            "key": "b",
+            "text": "Venus, Mercury, Mars, Earth"
+          },
+          {
+            "key": "c",
+            "text": "Mercury, Earth, Venus, Mars"
+          },
+          {
+            "key": "d",
+            "text": "Venus, Earth, Mercury, Mars"
+          }
+        ],
+        "userAnswer": "d",
+        "correctAnswer": "",
+        "explanation": null,
+        "timeSpent": 4.4,
+        "status": "wrong"
+      }
+    ],
+    "questionEvaluations": [
+      {
+        "id": "q1",
+        "number": 1,
+        "stem": "Consider the following statements regarding the Earth's rotation and revolution:\nThe Earth's axis makes an angle of 66½° with its orbital plane.\nThe Earth takes 365¼ days to complete one revolution around the Sun.\nThe circle that divides day from night on the globe is called the circle of illumination.\nWhich of the statements given above is/are correct? (UPSC 2013)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": "d",
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "wrong",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 8.5
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "stem": "The Tropic of Cancer passes through which of the following continents?Asia Africa North America South America\nSelect the correct answer using the code given below: (UPSC 2014)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "1, 2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "2 and 4 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2, 3 and 4"
+          }
+        ],
+        "userAnswer": "d",
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "wrong",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 1.8
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "stem": "Which one of the following is the correct sequence of the given planets in increasing order of their distance from the Sun? (UPSC 2015)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Mercury, Venus, Earth, Mars"
+          },
+          {
+            "key": "b",
+            "text": "Venus, Mercury, Mars, Earth"
+          },
+          {
+            "key": "c",
+            "text": "Mercury, Earth, Venus, Mars"
+          },
+          {
+            "key": "d",
+            "text": "Venus, Earth, Mercury, Mars"
+          }
+        ],
+        "userAnswer": "d",
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "wrong",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 4.4
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "stem": "Consider the following statements:\nThe Prime Meridian passes through Greenwich.\nThe 180° East and 180° West meridians are on the same line.\nThe Earth rotates 360° in about 24 hours, which means 15° an hour.\nWhich of the statements given above is/are correct? (UPSC 2016)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q5",
+        "number": 5,
+        "stem": "The 'Great Indian Desert' is located in which of the following states? (UPSC 2017)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Gujarat"
+          },
+          {
+            "key": "b",
+            "text": "Rajasthan"
+          },
+          {
+            "key": "c",
+            "text": "Haryana"
+          },
+          {
+            "key": "d",
+            "text": "Punjab"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q6",
+        "number": 6,
+        "stem": "Which one of the following is the largest continent in terms of area? (UPSC 2018)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Africa"
+          },
+          {
+            "key": "b",
+            "text": "Asia"
+          },
+          {
+            "key": "c",
+            "text": "North America"
+          },
+          {
+            "key": "d",
+            "text": "Europe"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q7",
+        "number": 7,
+        "stem": "Consider the following statements regarding the atmosphere:The atmosphere is composed mainly of nitrogen and oxygen. Nitrogen helps in the growth of living organisms.Carbon dioxide absorbs heat radiated by the earth.Which of the statements given above is/are correct? (UPSC 2019)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q8",
+        "number": 8,
+        "stem": "The 'Palk Strait' separates which of the following pairs of countries? (UPSC 2020)",
+        "options": [
+          {
+            "key": "a",
+            "text": "India and Maldives"
+          },
+          {
+            "key": "b",
+            "text": "India and Sri Lanka"
+          },
+          {
+            "key": "c",
+            "text": "Sri Lanka and Maldives"
+          },
+          {
+            "key": "d",
+            "text": "India and Bangladesh"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q9",
+        "number": 9,
+        "stem": "Which one of the following is the highest plateau in the world? (UPSC 2021)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Deccan Plateau"
+          },
+          {
+            "key": "b",
+            "text": "East African Plateau"
+          },
+          {
+            "key": "c",
+            "text": "Tibet Plateau"
+          },
+          {
+            "key": "d",
+            "text": "Western Plateau of Australia"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q10",
+        "number": 10,
+        "stem": "Consider the following statements regarding the motions of the Earth:Rotation is the movement of the Earth on its axis.Revolution is the movement of the Earth around the Sun in a fixed path.A leap year has 366 days.Which of the statements given above is/are correct? (UPSC 2022)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q11",
+        "number": 11,
+        "stem": "The 'Sundarbans Delta' is formed by which of the following rivers? (UPSC 2023)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Ganga and Yamuna"
+          },
+          {
+            "key": "b",
+            "text": "Ganga and Brahmaputra"
+          },
+          {
+            "key": "c",
+            "text": "Indus and Sutlej"
+          },
+          {
+            "key": "d",
+            "text": "Mahanadi and Godavari"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q12",
+        "number": 12,
+        "stem": "Which one of the following is the correct order of the layers of the atmosphere from the Earth's surface upwards? (UPSC 2024)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "b",
+            "text": "Stratosphere, Troposphere, Mesosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "c",
+            "text": "Troposphere, Mesosphere, Stratosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "d",
+            "text": "Troposphere, Stratosphere, Thermosphere, Mesosphere, Exosphere"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q13",
+        "number": 13,
+        "stem": "Consider the following statements:The Earth is the third nearest planet to the Sun.The Earth is slightly flattened at the poles.The shape of the Earth is described as a Geoid.Which of the statements given above is/are correct? (UPSC 2013)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q14",
+        "number": 14,
+        "stem": "Which one of the following is the smallest continent that lies entirely in the Southern Hemisphere? (UPSC 2014)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Antarctica"
+          },
+          {
+            "key": "b",
+            "text": "Australia"
+          },
+          {
+            "key": "c",
+            "text": "South America"
+          },
+          {
+            "key": "d",
+            "text": "Africa"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q15",
+        "number": 15,
+        "stem": "The 'Mariana Trench', the deepest part of the Earth, lies in which ocean? (UPSC 2015)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Atlantic Ocean"
+          },
+          {
+            "key": "b",
+            "text": "Indian Ocean"
+          },
+          {
+            "key": "c",
+            "text": "Pacific Ocean"
+          },
+          {
+            "key": "d",
+            "text": "Arctic Ocean"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q16",
+        "number": 16,
+        "stem": "Consider the following statements regarding latitudes:The equator represents the zero degree latitude.All parallels north of the equator are called 'north latitudes'.The value of each latitude is followed by either the word north or south.Which of the statements given above is/are correct? (UPSC 2016)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q17",
+        "number": 17,
+        "stem": "Which one of the following is the largest ocean in the world? (UPSC 2017)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Atlantic Ocean"
+          },
+          {
+            "key": "b",
+            "text": "Indian Ocean"
+          },
+          {
+            "key": "c",
+            "text": "Pacific Ocean"
+          },
+          {
+            "key": "d",
+            "text": "Southern Ocean"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q18",
+        "number": 18,
+        "stem": "The 'Aravali Hills' are located in which part of India? (UPSC 2018)",
+        "options": [
+          {
+            "key": "a",
+            "text": "North-West"
+          },
+          {
+            "key": "b",
+            "text": "North-East"
+          },
+          {
+            "key": "c",
+            "text": "South-West"
+          },
+          {
+            "key": "d",
+            "text": "South-East"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q19",
+        "number": 19,
+        "stem": "Consider the following statements regarding the Moon:The Moon moves around the Earth in about 27 days.The Moon takes exactly the same time to complete one spin.Only one side of the Moon is visible to us on the Earth.Which of the statements given above is/are correct? (UPSC 2019)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q20",
+        "number": 20,
+        "stem": "Which one of the following is the correct sequence of the given landforms in increasing order of their elevation? (UPSC 2020)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Plains, Plateaus, Mountains"
+          },
+          {
+            "key": "b",
+            "text": "Plateaus, Plains, Mountains"
+          },
+          {
+            "key": "c",
+            "text": "Mountains, Plateaus, Plains"
+          },
+          {
+            "key": "d",
+            "text": "Plains, Mountains, Plateaus"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q21",
+        "number": 21,
+        "stem": "The 'Isthmus of Panama' connects which of the following pairs of continents? (UPSC 2021)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Asia and Europe"
+          },
+          {
+            "key": "b",
+            "text": "North America and South America"
+          },
+          {
+            "key": "c",
+            "text": "Africa and Asia"
+          },
+          {
+            "key": "d",
+            "text": "Europe and Africa"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q22",
+        "number": 22,
+        "stem": "Consider the following statements regarding the Indian Standard Time (IST):The longitude of 82½° E is treated as the Standard Meridian of India.\nIST is 5 hours and 30 minutes ahead of GMT.The local time changes by four minutes for every one degree of longitude.Which of the statements given above is/are correct? (UPSC 2022)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q23",
+        "number": 23,
+        "stem": "Which one of the following is the largest state in India in terms of area? (UPSC 2023)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Madhya Pradesh"
+          },
+          {
+            "key": "b",
+            "text": "Maharashtra"
+          },
+          {
+            "key": "c",
+            "text": "Rajasthan"
+          },
+          {
+            "key": "d",
+            "text": "Uttar Pradesh"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q24",
+        "number": 24,
+        "stem": "The 'Gir Forest' in Gujarat is the home of which of the following animals? (UPSC 2024)",
+        "options": [
+          {
+            "key": "a",
+            "text": "Tiger"
+          },
+          {
+            "key": "b",
+            "text": "Asiatic Lion"
+          },
+          {
+            "key": "c",
+            "text": "Elephant"
+          },
+          {
+            "key": "d",
+            "text": "One-horned Rhinoceros"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q25",
+        "number": 25,
+        "stem": "Consider the following statements regarding the motions of the Earth:The Earth takes about 24 hours to complete one rotation around its axis.The period of rotation is known as the Earthday.The Earth revolves around the Sun in an elliptical orbit.Which of the statements given above is/are correct? (UPSC 2013)",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q26",
+        "number": 26,
+        "stem": "Consider the following statements regarding the heat zones of the Earth:The Torrid Zone receives the maximum heat as the mid-day sun is exactly overhead at least once a year.The Temperate Zones have moderate temperatures as the angle of the sun's rays goes on decreasing towards the poles.The Frigid Zones are very cold as the sun does not rise much above the horizon.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q27",
+        "number": 27,
+        "stem": "If the Earth did not rotate on its axis, which of the following would be the most likely consequence?",
+        "options": [
+          {
+            "key": "a",
+            "text": "There would be no seasons."
+          },
+          {
+            "key": "b",
+            "text": "One half of the Earth would experience continuous day and the other half continuous night."
+          },
+          {
+            "key": "c",
+            "text": "The Earth would stop revolving around the Sun."
+          },
+          {
+            "key": "d",
+            "text": "The length of a year would change."
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q28",
+        "number": 28,
+        "stem": "Consider the following statements regarding the atmosphere:The density of the atmosphere is maximum at sea level.The temperature decreases as we go upwards in the atmosphere.Air moves from low pressure to high pressure.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q29",
+        "number": 29,
+        "stem": "Which of the following is the correct sequence of the given planets in increasing order of their size?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Mercury, Mars, Venus, Earth"
+          },
+          {
+            "key": "b",
+            "text": "Mars, Mercury, Venus, Earth"
+          },
+          {
+            "key": "c",
+            "text": "Mercury, Venus, Mars, Earth"
+          },
+          {
+            "key": "d",
+            "text": "Venus, Mercury, Mars, Earth"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q30",
+        "number": 30,
+        "stem": "Consider the following statements regarding the Moon:The Moon's diameter is one-quarter that of the Earth.The Moon is about 3,84,400 km away from the Earth.The Moon has water and air.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q31",
+        "number": 31,
+        "stem": "The 'Standard Meridian of India' is:",
+        "options": [
+          {
+            "key": "a",
+            "text": "68°7'E"
+          },
+          {
+            "key": "b",
+            "text": "82°30'E"
+          },
+          {
+            "key": "c",
+            "text": "97°25'E"
+          },
+          {
+            "key": "d",
+            "text": "90°E"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q32",
+        "number": 32,
+        "stem": "Consider the following statements regarding the continents:Asia is the largest continent.Africa is the only continent through which the Tropic of Cancer, the Equator and the Tropic of Capricorn pass.Australia is the smallest continent.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q33",
+        "number": 33,
+        "stem": "Which of the following is the correct sequence of the given ocean currents in terms of their size?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Pacific, Atlantic, Indian, Southern, Arctic"
+          },
+          {
+            "key": "b",
+            "text": "Atlantic, Pacific, Indian, Arctic, Southern"
+          },
+          {
+            "key": "c",
+            "text": "Indian, Pacific, Atlantic, Southern, Arctic"
+          },
+          {
+            "key": "d",
+            "text": "Pacific, Indian, Atlantic, Arctic, Southern"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q34",
+        "number": 34,
+        "stem": "Consider the following statements regarding the biosphere:The biosphere is the narrow zone of contact between land, water and air.All living organisms are linked to each other and to the biosphere for survival.The organisms in the biosphere are divided into the plant kingdom and the animal kingdom.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q35",
+        "number": 35,
+        "stem": "Which of the following is the correct sequence of the given layers of the atmosphere from the Earth's surface upwards?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "b",
+            "text": "Stratosphere, Troposphere, Mesosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "c",
+            "text": "Troposphere, Mesosphere, Stratosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "d",
+            "text": "Troposphere, Stratosphere, Thermosphere, Mesosphere, Exosphere"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q36",
+        "number": 36,
+        "stem": "Consider the following statements regarding the motions of the Earth:The Earth's axis makes an angle of 66½° with its orbital plane.The circle that divides day from night on the globe is called the circle of illumination.The Earth takes 365¼ days to complete one revolution around the Sun.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q37",
+        "number": 37,
+        "stem": "Which of the following is the correct sequence of the given landforms in increasing order of their elevation?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Plains, Plateaus, Mountains"
+          },
+          {
+            "key": "b",
+            "text": "Plateaus, Plains, Mountains"
+          },
+          {
+            "key": "c",
+            "text": "Mountains, Plateaus, Plains"
+          },
+          {
+            "key": "d",
+            "text": "Plains, Mountains, Plateaus"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q38",
+        "number": 38,
+        "stem": "Consider the following statements regarding the Indian Standard Time (IST):The longitude of 82½° E is treated as the Standard Meridian of India.IST is 5 hours and 30 minutes ahead of GMT.The local time changes by four minutes for every one degree of longitude.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q39",
+        "number": 39,
+        "stem": "Which of the following is the correct sequence of the given planets in increasing order of their distance from the Sun?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Mercury, Venus, Earth, Mars"
+          },
+          {
+            "key": "b",
+            "text": "Venus, Mercury, Mars, Earth"
+          },
+          {
+            "key": "c",
+            "text": "Mercury, Earth, Venus, Mars"
+          },
+          {
+            "key": "d",
+            "text": "Venus, Earth, Mercury, Mars"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q40",
+        "number": 40,
+        "stem": "Consider the following statements regarding the continents:Asia is the largest continent.Africa is the second largest continent.North America is the third largest continent.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q41",
+        "number": 41,
+        "stem": "Which of the following is the correct sequence of the given ocean currents in terms of their size?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Pacific, Atlantic, Indian, Southern, Arctic"
+          },
+          {
+            "key": "b",
+            "text": "Atlantic, Pacific, Indian, Arctic, Southern"
+          },
+          {
+            "key": "c",
+            "text": "Indian, Pacific, Atlantic, Southern, Arctic"
+          },
+          {
+            "key": "d",
+            "text": "Pacific, Indian, Atlantic, Arctic, Southern"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q42",
+        "number": 42,
+        "stem": "Consider the following statements regarding the biosphere:The biosphere is the narrow zone of contact between land, water and air.All living organisms are linked to each other and to the biosphere for survival.The organisms in the biosphere are divided into the plant kingdom and the animal kingdom.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q43",
+        "number": 43,
+        "stem": "Which of the following is the correct sequence of the given layers of the atmosphere from the Earth's surface upwards?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "b",
+            "text": "Stratosphere, Troposphere, Mesosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "c",
+            "text": "Troposphere, Mesosphere, Stratosphere, Thermosphere, Exosphere"
+          },
+          {
+            "key": "d",
+            "text": "Troposphere, Stratosphere, Thermosphere, Mesosphere, Exosphere"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q44",
+        "number": 44,
+        "stem": "Consider the following statements regarding the motions of the Earth:The Earth's axis makes an angle of 66½° with its orbital plane.\nThe circle that divides day from night on the globe is called the circle of illumination.The Earth takes 365¼ days to complete one revolution around the Sun.Which of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2 only"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3 only"
+          },
+          {
+            "key": "c",
+            "text": "1 and 3 only"
+          },
+          {
+            "key": "d",
+            "text": "1, 2 and 3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q45",
+        "number": 45,
+        "stem": "Which of the following is the correct sequence of the given landforms in increasing order of their elevation?",
+        "options": [
+          {
+            "key": "a",
+            "text": "Plains, Plateaus, Mountains"
+          },
+          {
+            "key": "b",
+            "text": "Plateaus, Plains, Mountains"
+          },
+          {
+            "key": "c",
+            "text": "Mountains, Plateaus, Plains"
+          },
+          {
+            "key": "d",
+            "text": "Plains, Mountains, Plateaus"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q46",
+        "number": 46,
+        "stem": "Imagine you are standing at the Equator at 12:00 noon on 21st March. Which of the following statements is correct regarding your shadow?",
+        "options": [
+          {
+            "key": "a",
+            "text": "You will cast a shadow towards the North."
+          },
+          {
+            "key": "b",
+            "text": "You will cast a shadow towards the South."
+          },
+          {
+            "key": "c",
+            "text": "You will cast no shadow."
+          },
+          {
+            "key": "d",
+            "text": "You will cast a shadow towards the East."
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q47",
+        "number": 47,
+        "stem": "If the Earth rotated from East to West instead of West to East, which of the following would be the most likely consequence?",
+        "options": [
+          {
+            "key": "a",
+            "text": "The Sun would rise in the West and set in the East."
+          },
+          {
+            "key": "b",
+            "text": "The length of a day would increase."
+          },
+          {
+            "key": "c",
+            "text": "The seasons would reverse."
+          },
+          {
+            "key": "d",
+            "text": "The Earth would stop revolving around the Sun."
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q48",
+        "number": 48,
+        "stem": "A satellite is positioned at the Equator. If it is to remain stationary relative to the Earth's surface, what should be its orbital period?",
+        "options": [
+          {
+            "key": "a",
+            "text": "12 hours"
+          },
+          {
+            "key": "b",
+            "text": "24 hours"
+          },
+          {
+            "key": "c",
+            "text": "27 days"
+          },
+          {
+            "key": "d",
+            "text": "365 days"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q49",
+        "number": 49,
+        "stem": "You are traveling from Kolkata (88°E) to London (0°). If it is 12:00 noon in London, what will be the local time in Kolkata?",
+        "options": [
+          {
+            "key": "a",
+            "text": "5:30 PM"
+          },
+          {
+            "key": "b",
+            "text": "6:00 PM"
+          },
+          {
+            "key": "c",
+            "text": "5:52 PM"
+          },
+          {
+            "key": "d",
+            "text": "6:08 PM"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q50",
+        "number": 50,
+        "stem": "If the Earth's axis were perpendicular to its orbital plane (i.e., no tilt), which of the following would be the most likely consequence?",
+        "options": [
+          {
+            "key": "a",
+            "text": "There would be no seasons."
+          },
+          {
+            "key": "b",
+            "text": "The length of a day would change."
+          },
+          {
+            "key": "c",
+            "text": "The Earth would stop rotating."
+          },
+          {
+            "key": "d",
+            "text": "The poles would experience continuous daylight."
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "",
+        "explanation": null,
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      }
+    ]
+  },
+  {
+    "id": "sub_1791219853",
+    "examId": "sample",
+    "examTitle": "UPSC CSAT Number System Benchmark Exam (30 Questions)",
+    "candidateName": "lalith",
+    "rollNumber": "223",
+    "timestamp": 1791219853.2878149,
+    "score": 0.0,
+    "maxScore": 30.0,
+    "totalQuestions": 30,
+    "attempted": 3,
+    "correct": 0,
+    "wrong": 3,
+    "unattempted": 27,
+    "accuracy": 0.0,
+    "totalTimeTaken": 42.0,
+    "avgTimePerQuestion": 1.4,
+    "errorQuestions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "stem": "What is the remainder when \\(7^{105}\\) is divided by 5?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1"
+          },
+          {
+            "key": "b",
+            "text": "2"
+          },
+          {
+            "key": "c",
+            "text": "3"
+          },
+          {
+            "key": "d",
+            "text": "4"
+          }
+        ],
+        "userAnswer": "b",
+        "correctAnswer": "c",
+        "explanation": "\\(7^1 \\equiv 2 \\pmod 5\\), \\(7^2 \\equiv 4 \\pmod 5\\), \\(7^3 \\equiv 3 \\pmod 5\\), \\(7^4 \\equiv 1 \\pmod 5\\). Since \\(105 = 4 \\times 26 + 1\\), \\(7^{105} \\equiv 7^1 \\equiv 2\\)... Wait! \\(7^1 = 7 \\equiv 2 \\pmod 5\\). Option (c) is 3? Let's check: 7^1 mod 5 = 2 (Option b is 2). Let's set 1. b.",
+        "timeSpent": 26.6,
+        "status": "wrong"
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "stem": "What is the unit digit in the expression \\(7^{95} - 3^{58}\\)?",
+        "options": [
+          {
+            "key": "a",
+            "text": "0"
+          },
+          {
+            "key": "b",
+            "text": "4"
+          },
+          {
+            "key": "c",
+            "text": "6"
+          },
+          {
+            "key": "d",
+            "text": "7"
+          }
+        ],
+        "userAnswer": "a",
+        "correctAnswer": "b",
+        "explanation": "Unit digit of \\(7^{95}\\): cyclicity of 7 is 7,9,3,1. \\(95 \\pmod 4 = 3\\), so unit digit is 3. Unit digit of \\(3^{58}\\): cyclicity of 3 is 3,9,7,1. \\(58 \\pmod 4 = 2\\), unit digit is 9. Borrow 1: \\(13 - 9 = 4\\). Option (b).",
+        "timeSpent": 8.0,
+        "status": "wrong"
+      },
+      {
+        "id": "q30",
+        "number": 30,
+        "stem": "Consider the expression \\(E = 10^n - 1\\).\n1. \\(E\\) is divisible by 9 for all positive integers \\(n\\).\n2. \\(E\\) is divisible by 11 if \\(n\\) is an even positive integer.\nWhich of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 only"
+          },
+          {
+            "key": "b",
+            "text": "2 only"
+          },
+          {
+            "key": "c",
+            "text": "Both 1 and 2"
+          },
+          {
+            "key": "d",
+            "text": "Neither 1 nor 2"
+          }
+        ],
+        "userAnswer": "a",
+        "correctAnswer": "c",
+        "explanation": "1. \\(10^n - 1 = 999...9\\) (n nines), always divisible by 9. True. 2. \\(10 \\equiv -1 \\pmod{11} \\implies 10^n - 1 \\equiv (-1)^n - 1 \\pmod{11}\\). If \\(n\\) is even, \\((-1)^n - 1 = 0\\). True. Option (c).",
+        "timeSpent": 5.1,
+        "status": "wrong"
+      }
+    ],
+    "questionEvaluations": [
+      {
+        "id": "q1",
+        "number": 1,
+        "stem": "What is the remainder when \\(7^{105}\\) is divided by 5?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1"
+          },
+          {
+            "key": "b",
+            "text": "2"
+          },
+          {
+            "key": "c",
+            "text": "3"
+          },
+          {
+            "key": "d",
+            "text": "4"
+          }
+        ],
+        "userAnswer": "b",
+        "correctAnswer": "c",
+        "explanation": "\\(7^1 \\equiv 2 \\pmod 5\\), \\(7^2 \\equiv 4 \\pmod 5\\), \\(7^3 \\equiv 3 \\pmod 5\\), \\(7^4 \\equiv 1 \\pmod 5\\). Since \\(105 = 4 \\times 26 + 1\\), \\(7^{105} \\equiv 7^1 \\equiv 2\\)... Wait! \\(7^1 = 7 \\equiv 2 \\pmod 5\\). Option (c) is 3? Let's check: 7^1 mod 5 = 2 (Option b is 2). Let's set 1. b.",
+        "status": "wrong",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 26.6
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "stem": "What is the unit digit in the expression \\(7^{95} - 3^{58}\\)?",
+        "options": [
+          {
+            "key": "a",
+            "text": "0"
+          },
+          {
+            "key": "b",
+            "text": "4"
+          },
+          {
+            "key": "c",
+            "text": "6"
+          },
+          {
+            "key": "d",
+            "text": "7"
+          }
+        ],
+        "userAnswer": "a",
+        "correctAnswer": "b",
+        "explanation": "Unit digit of \\(7^{95}\\): cyclicity of 7 is 7,9,3,1. \\(95 \\pmod 4 = 3\\), so unit digit is 3. Unit digit of \\(3^{58}\\): cyclicity of 3 is 3,9,7,1. \\(58 \\pmod 4 = 2\\), unit digit is 9. Borrow 1: \\(13 - 9 = 4\\). Option (b).",
+        "status": "wrong",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 8.0
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "stem": "Consider the following statements:\n1. \\(2^{32} + 1\\) is completely divisible by a whole number.\n2. The same whole number completely divides \\(2^{96} + 1\\).\nWhich of the above statements is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 only"
+          },
+          {
+            "key": "b",
+            "text": "2 only"
+          },
+          {
+            "key": "c",
+            "text": "Both 1 and 2"
+          },
+          {
+            "key": "d",
+            "text": "Neither 1 nor 2"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "c",
+        "explanation": "\\(2^{32}+1\\) is prime (Fermat prime). \\(2^{96}+1 = (2^{32})^3 + 1^3 = (2^{32}+1)(2^{64} - 2^{32} + 1)\\). Both statements are correct. Option (c).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 3.1
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "stem": "Find the sum of the series: \\(\\frac{1}{1 \\times 2} + \\frac{1}{2 \\times 3} + \\frac{1}{3 \\times 4} + \\dots + \\frac{1}{99 \\times 100}\\).",
+        "options": [
+          {
+            "key": "a",
+            "text": "\\(\\frac{99}{100}\\)"
+          },
+          {
+            "key": "b",
+            "text": "\\(\\frac{1}{100}\\)"
+          },
+          {
+            "key": "c",
+            "text": "\\(\\frac{100}{99}\\)"
+          },
+          {
+            "key": "d",
+            "text": "1"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "a",
+        "explanation": "Telescoping series: \\((1 - 1/2) + (1/2 - 1/3) + \\dots + (1/99 - 1/100) = 1 - 1/100 = 99/100\\). Option (a).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q5",
+        "number": 5,
+        "stem": "What is the value of \\(\\sqrt{6 + \\sqrt{6 + \\sqrt{6 + \\dots}}}\\)?",
+        "options": [
+          {
+            "key": "a",
+            "text": "2"
+          },
+          {
+            "key": "b",
+            "text": "3"
+          },
+          {
+            "key": "c",
+            "text": "6"
+          },
+          {
+            "key": "d",
+            "text": "9"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "b",
+        "explanation": "Let \\(x = \\sqrt{6+x} \\implies x^2 - x - 6 = 0 \\implies (x-3)(x+2)=0 \\implies x = 3\\). Option (b).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q6",
+        "number": 6,
+        "stem": "If a number \\(N = 2^3 \\times 3^2 \\times 5^1\\), how many factors of N are even?",
+        "options": [
+          {
+            "key": "a",
+            "text": "12"
+          },
+          {
+            "key": "b",
+            "text": "16"
+          },
+          {
+            "key": "c",
+            "text": "18"
+          },
+          {
+            "key": "d",
+            "text": "24"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "c",
+        "explanation": "Total factors = \\((3+1)(2+1)(1+1) = 24\\). Odd factors (ignoring \\(2^3\\)) = \\((2+1)(1+1) = 6\\). Even factors = \\(24 - 6 = 18\\). Option (c).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q7",
+        "number": 7,
+        "stem": "A 3-digit number 4a3 is added to another 3-digit number 984 to give a 4-digit number 13b7, which is divisible by 11. Find the value of \\((a + b)\\).",
+        "options": [
+          {
+            "key": "a",
+            "text": "10"
+          },
+          {
+            "key": "b",
+            "text": "11"
+          },
+          {
+            "key": "c",
+            "text": "12"
+          },
+          {
+            "key": "d",
+            "text": "15"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "a",
+        "explanation": "\\(4a3 + 984 = 13b7\\). For 13b7 to be divisible by 11: \\((1+b) - (3+7) = b - 9\\). So \\(b = 9\\). \\(4a3 + 984 = 1397 \\implies a + 8 = 9 \\implies a = 1\\). Thus \\(a+b = 1 + 9 = 10\\). Option (a).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q8",
+        "number": 8,
+        "stem": "How many zeros are at the end of \\(100!\\)?",
+        "options": [
+          {
+            "key": "a",
+            "text": "20"
+          },
+          {
+            "key": "b",
+            "text": "24"
+          },
+          {
+            "key": "c",
+            "text": "25"
+          },
+          {
+            "key": "d",
+            "text": "30"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "b",
+        "explanation": "Number of zeros in \\(100!\\) is \\(\\lfloor 100/5 \\rfloor + \\lfloor 100/25 \\rfloor = 20 + 4 = 24\\). Option (b).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q9",
+        "number": 9,
+        "stem": "What is the remainder when \\(2^{31}\\) is divided by 5?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1"
+          },
+          {
+            "key": "b",
+            "text": "2"
+          },
+          {
+            "key": "c",
+            "text": "3"
+          },
+          {
+            "key": "d",
+            "text": "4"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "c",
+        "explanation": "\\(2^1 = 2, 2^2 = 4, 2^3 = 8 \\equiv 3, 2^4 = 16 \\equiv 1 \\pmod 5\\). \\(31 = 4 \\times 7 + 3\\), so \\(2^{31} \\equiv 2^3 \\equiv 3 \\pmod 5\\). Option (c).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q10",
+        "number": 10,
+        "stem": "Consider the following statements regarding prime numbers:\n1. The difference between two consecutive prime numbers is always 2.\n2. If \\(p > 3\\) is a prime number, then \\(p^2 - 1\\) is always divisible by 24.\nWhich of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 only"
+          },
+          {
+            "key": "b",
+            "text": "2 only"
+          },
+          {
+            "key": "c",
+            "text": "Both 1 and 2"
+          },
+          {
+            "key": "d",
+            "text": "Neither 1 nor 2"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "b",
+        "explanation": "Statement 1 is false (e.g., 3 and 7 diff is 4). Statement 2 is true for all primes \\(p > 3\\). Option (b).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q11",
+        "number": 11,
+        "stem": "What is the highest power of 3 contained in \\(50!\\)?",
+        "options": [
+          {
+            "key": "a",
+            "text": "16"
+          },
+          {
+            "key": "b",
+            "text": "22"
+          },
+          {
+            "key": "c",
+            "text": "24"
+          },
+          {
+            "key": "d",
+            "text": "25"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "b",
+        "explanation": "Highest power of 3 in \\(50!\\) = \\(\\lfloor 50/3 \\rfloor + \\lfloor 50/9 \\rfloor + \\lfloor 50/27 \\rfloor = 16 + 5 + 1 = 22\\). Option (b).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q12",
+        "number": 12,
+        "stem": "A number when divided by 899 gives a remainder of 63. What will be the remainder when the same number is divided by 29?",
+        "options": [
+          {
+            "key": "a",
+            "text": "5"
+          },
+          {
+            "key": "b",
+            "text": "10"
+          },
+          {
+            "key": "c",
+            "text": "4"
+          },
+          {
+            "key": "d",
+            "text": "2"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "a",
+        "explanation": "Since 899 is divisible by 29 (\\(899 = 29 \\times 31\\)), the required remainder is \\(63 \\pmod{29} = 5\\). Option (a).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q13",
+        "number": 13,
+        "stem": "What is the value of \\((0.\\overline{3} + 0.\\overline{6} + 0.\\overline{7} + 0.\\overline{8})\\)?",
+        "options": [
+          {
+            "key": "a",
+            "text": "\\(2.\\overline{5}\\)"
+          },
+          {
+            "key": "b",
+            "text": "\\(2\\frac{1}{9}\\)"
+          },
+          {
+            "key": "c",
+            "text": "\\(2.\\overline{6}\\)"
+          },
+          {
+            "key": "d",
+            "text": "\\(2\\frac{5}{9}\\)"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "d",
+        "explanation": "\\(3/9 + 6/9 + 7/9 + 8/9 = 24/9 = 2\\frac{6}{9} = 2\\frac{2}{3} = 2.666...\\) wait, \\(24/9 = 2\\frac{6}{9}\\). Option (d) is \\(2\\frac{5}{9}\\) or let's check \\(24/9 = 2\\frac{6}{9}\\).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q14",
+        "number": 14,
+        "stem": "How many natural numbers between 100 and 300 are divisible by both 4 and 6?",
+        "options": [
+          {
+            "key": "a",
+            "text": "16"
+          },
+          {
+            "key": "b",
+            "text": "17"
+          },
+          {
+            "key": "c",
+            "text": "18"
+          },
+          {
+            "key": "d",
+            "text": "20"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "a",
+        "explanation": "Divisible by \\(\\text{LCM}(4,6) = 12\\). Numbers between 100 and 300: First is 108, last is 288. Count = \\((288 - 108)/12 + 1 = 180/12 + 1 = 16\\). Option (a).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q15",
+        "number": 15,
+        "stem": "If the number 517*324 is completely divisible by 3, then the smallest digit in place of * will be:",
+        "options": [
+          {
+            "key": "a",
+            "text": "0"
+          },
+          {
+            "key": "b",
+            "text": "1"
+          },
+          {
+            "key": "c",
+            "text": "2"
+          },
+          {
+            "key": "d",
+            "text": "3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "c",
+        "explanation": "Sum of digits = \\(5+1+7+*+3+2+4 = 22 + *\\). For divisible by 3, smallest \\(* = 2\\) (\\(22+2=24\\)). Option (c).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q16",
+        "number": 16,
+        "stem": "What is the unit digit of \\(3^{65} \\times 6^{59} \\times 7^{71}\\)?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1"
+          },
+          {
+            "key": "b",
+            "text": "2"
+          },
+          {
+            "key": "c",
+            "text": "4"
+          },
+          {
+            "key": "d",
+            "text": "6"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "c",
+        "explanation": "\\(3^{65}\\): \\(65 \\pmod 4 = 1 \\implies 3\\). \\(6^{59} \\implies 6\\). \\(7^{71}\\): \\(71 \\pmod 4 = 3 \\implies 3\\). Unit digit = \\(3 \\times 6 \\times 3 = 54 \\implies 4\\). Option (c).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q17",
+        "number": 17,
+        "stem": "Find the value of \\(\\left(1 - \\frac{1}{3}\\right)\\left(1 - \\frac{1}{4}\\right)\\left(1 - \\frac{1}{5}\\right)\\dots\\left(1 - \\frac{1}{n}\\right)\\).",
+        "options": [
+          {
+            "key": "a",
+            "text": "\\(\\frac{1}{n}\\)"
+          },
+          {
+            "key": "b",
+            "text": "\\(\\frac{2}{n}\\)"
+          },
+          {
+            "key": "c",
+            "text": "\\(\\frac{2(n-1)}{n}\\)"
+          },
+          {
+            "key": "d",
+            "text": "\\(\\frac{2}{n(n+1)}\\)"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "b",
+        "explanation": "\\(\\frac{2}{3} \\times \\frac{3}{4} \\times \\frac{4}{5} \\dots \\frac{n-1}{n} = \\frac{2}{n}\\). Option (b).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q18",
+        "number": 18,
+        "stem": "What is the number of prime factors in \\(6^{10} \\times 7^{17} \\times 11^{27}\\)?",
+        "options": [
+          {
+            "key": "a",
+            "text": "54"
+          },
+          {
+            "key": "b",
+            "text": "64"
+          },
+          {
+            "key": "c",
+            "text": "71"
+          },
+          {
+            "key": "d",
+            "text": "81"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "d",
+        "explanation": "\\(6^{10} \\times 7^{17} \\times 11^{27} = 2^{10} \\times 3^{10} \\times 7^{17} \\times 11^{27}\\). Total prime factors = \\(10 + 10 + 17 + 27 = 64\\). Option (b).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q19",
+        "number": 19,
+        "stem": "When \\(n\\) is divided by 4, the remainder is 3. What is the remainder when \\(2n\\) is divided by 4?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1"
+          },
+          {
+            "key": "b",
+            "text": "2"
+          },
+          {
+            "key": "c",
+            "text": "3"
+          },
+          {
+            "key": "d",
+            "text": "0"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "b",
+        "explanation": "\\(n = 4k + 3 \\implies 2n = 8k + 6 = 4(2k+1) + 2\\). Remainder is 2. Option (b).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q20",
+        "number": 20,
+        "stem": "Consider two natural numbers \\(x\\) and \\(y\\).\n1. If \\(x+y\\) is even, then \\(x-y\\) must be even.\n2. If \\(x \\times y\\) is odd, then \\(x+y\\) must be even.\nWhich of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 only"
+          },
+          {
+            "key": "b",
+            "text": "2 only"
+          },
+          {
+            "key": "c",
+            "text": "Both 1 and 2"
+          },
+          {
+            "key": "d",
+            "text": "Neither 1 nor 2"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "c",
+        "explanation": "1. If \\(x+y\\) is even, both are odd or both are even, so \\(x-y\\) is even. True. 2. If \\(xy\\) is odd, both are odd, so \\(x+y\\) is even. True. Option (c).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q21",
+        "number": 21,
+        "stem": "What is the remainder when \\(17^{200}\\) is divided by 18?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1"
+          },
+          {
+            "key": "b",
+            "text": "2"
+          },
+          {
+            "key": "c",
+            "text": "16"
+          },
+          {
+            "key": "d",
+            "text": "17"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "a",
+        "explanation": "\\(17 \\equiv -1 \\pmod{18} \\implies 17^{200} \\equiv (-1)^{200} = 1 \\pmod{18}\\). Option (a).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q22",
+        "number": 22,
+        "stem": "The sum of three consecutive odd numbers is 57. What is the middle number?",
+        "options": [
+          {
+            "key": "a",
+            "text": "17"
+          },
+          {
+            "key": "b",
+            "text": "19"
+          },
+          {
+            "key": "c",
+            "text": "21"
+          },
+          {
+            "key": "d",
+            "text": "23"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "b",
+        "explanation": "Let numbers be \\(x-2, x, x+2\\). Sum = \\(3x = 57 \\implies x = 19\\). Option (b).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q23",
+        "number": 23,
+        "stem": "Which one of the following numbers is prime?",
+        "options": [
+          {
+            "key": "a",
+            "text": "161"
+          },
+          {
+            "key": "b",
+            "text": "221"
+          },
+          {
+            "key": "c",
+            "text": "373"
+          },
+          {
+            "key": "d",
+            "text": "437"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "c",
+        "explanation": "\\(161 = 7 \\times 23\\), \\(221 = 13 \\times 17\\), \\(437 = 19 \\times 23\\). 373 is prime. Option (c).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q24",
+        "number": 24,
+        "stem": "If \\(x = \\sqrt{3 + \\sqrt{3 + \\sqrt{3 + \\dots}}}\\), then between which two integers does \\(x\\) lie?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 and 2"
+          },
+          {
+            "key": "b",
+            "text": "2 and 3"
+          },
+          {
+            "key": "c",
+            "text": "3 and 4"
+          },
+          {
+            "key": "d",
+            "text": "4 and 5"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "b",
+        "explanation": "\\(x = \\sqrt{3+x} \\implies x^2 - x - 3 = 0 \\implies x = \\frac{1 + \\sqrt{13}}{2} \\approx \\frac{1 + 3.6}{2} = 2.3\\), which lies between 2 and 3. Option (b).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q25",
+        "number": 25,
+        "stem": "What is the unit digit of \\(1! + 2! + 3! + 4! + \\dots + 100!\\)?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1"
+          },
+          {
+            "key": "b",
+            "text": "3"
+          },
+          {
+            "key": "c",
+            "text": "5"
+          },
+          {
+            "key": "d",
+            "text": "7"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "b",
+        "explanation": "\\(1! + 2! + 3! + 4! = 1 + 2 + 6 + 24 = 33\\). For \\(n \\ge 5\\), \\(n!\\) ends in 0. So unit digit is 3. Option (b).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q26",
+        "number": 26,
+        "stem": "The HCF and LCM of two numbers are 12 and 336 respectively. If one of the numbers is 84, what is the other number?",
+        "options": [
+          {
+            "key": "a",
+            "text": "36"
+          },
+          {
+            "key": "b",
+            "text": "48"
+          },
+          {
+            "key": "c",
+            "text": "72"
+          },
+          {
+            "key": "d",
+            "text": "96"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "b",
+        "explanation": "\\(\\text{Product of numbers} = \\text{HCF} \\times \\text{LCM} \\implies 84 \\times y = 12 \\times 336 \\implies y = 48\\). Option (b).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q27",
+        "number": 27,
+        "stem": "A fraction becomes \\(\\frac{4}{5}\\) when 1 is added to both numerator and denominator. It becomes \\(\\frac{1}{2}\\) when 5 is subtracted from both. Find the fraction.",
+        "options": [
+          {
+            "key": "a",
+            "text": "\\(\\frac{7}{9}\\)"
+          },
+          {
+            "key": "b",
+            "text": "\\(\\frac{5}{9}\\)"
+          },
+          {
+            "key": "c",
+            "text": "\\(\\frac{9}{11}\\)"
+          },
+          {
+            "key": "d",
+            "text": "\\(\\frac{11}{14}\\)"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "a",
+        "explanation": "\\(\\frac{x+1}{y+1} = \\frac{4}{5} \\implies 5x - 4y = -1\\). \\(\\frac{x-5}{y-5} = \\frac{1}{2} \\implies 2x - y = 5\\). Solving gives \\(x = 7, y = 9\\). Fraction is \\(\\frac{7}{9}\\). Option (a).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q28",
+        "number": 28,
+        "stem": "What is the remainder when \\(9^{6} + 1\\) is divided by 8?",
+        "options": [
+          {
+            "key": "a",
+            "text": "0"
+          },
+          {
+            "key": "b",
+            "text": "1"
+          },
+          {
+            "key": "c",
+            "text": "2"
+          },
+          {
+            "key": "d",
+            "text": "3"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "c",
+        "explanation": "\\(9 \\equiv 1 \\pmod 8 \\implies 9^6 \\equiv 1^6 = 1 \\pmod 8\\). So \\(9^6 + 1 \\equiv 1 + 1 = 2 \\pmod 8\\). Option (c).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q29",
+        "number": 29,
+        "stem": "How many 3-digit numbers are divisible by 7?",
+        "options": [
+          {
+            "key": "a",
+            "text": "126"
+          },
+          {
+            "key": "b",
+            "text": "128"
+          },
+          {
+            "key": "c",
+            "text": "130"
+          },
+          {
+            "key": "d",
+            "text": "132"
+          }
+        ],
+        "userAnswer": null,
+        "correctAnswer": "b",
+        "explanation": "First 3-digit number divisible by 7 is 105 (\\(7 \\times 15\\)). Last is 994 (\\(7 \\times 142\\)). Count = \\(142 - 15 + 1 = 128\\). Option (b).",
+        "status": "unattempted",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 0.0
+      },
+      {
+        "id": "q30",
+        "number": 30,
+        "stem": "Consider the expression \\(E = 10^n - 1\\).\n1. \\(E\\) is divisible by 9 for all positive integers \\(n\\).\n2. \\(E\\) is divisible by 11 if \\(n\\) is an even positive integer.\nWhich of the statements given above is/are correct?",
+        "options": [
+          {
+            "key": "a",
+            "text": "1 only"
+          },
+          {
+            "key": "b",
+            "text": "2 only"
+          },
+          {
+            "key": "c",
+            "text": "Both 1 and 2"
+          },
+          {
+            "key": "d",
+            "text": "Neither 1 nor 2"
+          }
+        ],
+        "userAnswer": "a",
+        "correctAnswer": "c",
+        "explanation": "1. \\(10^n - 1 = 999...9\\) (n nines), always divisible by 9. True. 2. \\(10 \\equiv -1 \\pmod{11} \\implies 10^n - 1 \\equiv (-1)^n - 1 \\pmod{11}\\). If \\(n\\) is even, \\((-1)^n - 1 = 0\\). True. Option (c).",
+        "status": "wrong",
+        "isCorrect": false,
+        "isMarkedForReview": false,
+        "timeSpent": 5.1
+      }
+    ]
+  }
+]
